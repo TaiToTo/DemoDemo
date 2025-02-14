@@ -46,10 +46,18 @@ def evaluate_teaching_plan_llm(evaluation_criteria, national_curriculum, teachin
 
     content = response.choices[0].message.content
 
-    return content
+    return content, single_judge_prompt_template.format(evaluation_criteria=evaluation_criteria, 
+                                                        national_curriculum=national_curriculum, 
+                                                        teaching_plan=teaching_plan)
 
 
 st.set_page_config(layout="wide")
+
+st.header("Evaluation of Short-Term Teaching Plan")
+
+col1, col2, col3 = st.columns([1, 2, 1])  # Create three columns, with the center column being larger
+with col2:
+    st.image("static/llm-as-a-judge.jpg", use_container_width =True)
 
 # Initialize session state for long text areas
 if "text1" not in st.session_state:
@@ -59,6 +67,19 @@ if "text2" not in st.session_state:
     teaching_plan = read_markdown_file("static/sample_teaching_plan.md")
     st.session_state.teaching_plan = teaching_plan
 
+
+st.markdown(
+    """
+    <div style="
+        font-weight: bold;
+        font-size: 20px;
+        ">
+        An example part of national curriculum
+    </div>
+    <br>
+    """,
+    unsafe_allow_html=True,
+)
 
 
 st.markdown(
@@ -77,9 +98,32 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.write("")
+st.markdown(
+    """
+    <br>
+    <div style="
+        font-weight: bold;
+        font-size: 20px;
+        ">
+        Draft of a short-term teaching plan
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 st.session_state.teaching_plan = st.text_area("", label_visibility="collapsed", value=st.session_state.teaching_plan, height=300)
 
+st.markdown(
+    """
+    <br>
+    <div style="
+        font-weight: bold;
+        font-size: 20px;
+        ">
+        Criteria for evaluation scores
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 # Initialize session state for short text inputs
 if "criteria_0" not in st.session_state:
     st.session_state.criteria_0 = "The contents of the teaching plan is irrelevant to national curriculum or does not make any sense. Or the generated contents could be sensitive or harmful."
@@ -105,8 +149,12 @@ if st.button("Evaluate Teaching Plan"):
 
     national_curriculum = st.session_state.national_curriculum
     teaching_plan = st.session_state.teaching_plan
-    content = evaluate_teaching_plan_llm(evaluation_criteria, national_curriculum, teaching_plan)
+    content, evaluation_prompt = evaluate_teaching_plan_llm(evaluation_criteria, national_curriculum, teaching_plan)
+
+    print(evaluation_prompt)
     st.session_state.evaluation_result = content
+
+    
 
 if "evaluation_result" in st.session_state:
     st.markdown(
@@ -123,4 +171,17 @@ if "evaluation_result" in st.session_state:
         """,
         unsafe_allow_html=True,
     )
+    st.markdown(
+    """
+    <br>
+    <div style="
+        font-weight: bold;
+        font-size: 20px;
+        ">
+        The prompt used for evaluation
+    </div>
+    """,
+    unsafe_allow_html=True,
+    )   
+    st.json({evaluation_prompt}, expanded=False)
 
