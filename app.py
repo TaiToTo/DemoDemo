@@ -1,4 +1,8 @@
+import os
+from openai import OpenAI
 import streamlit as st
+
+openai_api_key = os.environ["OPENAI_API_KEY"]
 
 def read_markdown_file(file_path):
     """Reads a markdown file and prints its content."""
@@ -10,6 +14,40 @@ def read_markdown_file(file_path):
         return "File not found."
     except Exception as e:
         return f"An error occurred: {e}"
+    
+
+def evaluate_teaching_plan_llm(evaluation_criteria, national_curriculum, teaching_plan):
+
+    with open("static/single_judge_prompt_template.txt", "r", encoding="utf-8") as file:
+        single_judge_prompt_template = file.read()
+
+    messages = [
+        {
+            "role": "system",
+            "content": "You are a teaching plan evaluator",
+        },
+        {
+            "role": "user",
+            "content": single_judge_prompt_template.format(evaluation_criteria=evaluation_criteria, 
+                                                        national_curriculum=national_curriculum, 
+                                                        teaching_plan=teaching_plan),
+        },
+    ]
+
+    params = {
+    "messages": messages,
+    "max_tokens": 2048,
+    "model": "gpt-4-turbo-2024-04-09"
+    }
+    # OpenAI APIのクライアントを初期化
+    client = OpenAI()
+    # OpenAI APIにリクエストを送信
+    response = client.chat.completions.create(**params)
+
+    content = response.choices[0].message.content
+
+    return content
+
 
 st.set_page_config(layout="wide")
 
@@ -39,44 +77,50 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.session_state.teaching_plan = st.text_area("Text Area 2", value=st.session_state.teaching_plan, height=300)
+st.write("")
+st.session_state.teaching_plan = st.text_area("", label_visibility="collapsed", value=st.session_state.teaching_plan, height=300)
 
 # Initialize session state for short text inputs
-if "short_text1" not in st.session_state:
-    st.session_state.short_text1 = "[[1]]: The contents of the teaching plan is relevant to national curriculum and the plan is feasible. But the teaching plan does not cover topics mentioned in national curriculum and it lacks details of activity. "
-if "short_text2" not in st.session_state:
-    st.session_state.short_text2 = "[[2]]: The contents of the teaching plan is relevant to national curriculum and the plan is feasible, and it has a lot of details about activities. But it does not cover some topics in the national curriculum. "
-if "short_text3" not in st.session_state:
-    st.session_state.short_text3 = "[[3]]: The contents of the teaching plan is relevant to national curriculum and the plan is detailed with activities that will cover the most of the contents in the national curriculum. "
+if "criteria_0" not in st.session_state:
+    st.session_state.criteria_0 = "The contents of the teaching plan is irrelevant to national curriculum or does not make any sense. Or the generated contents could be sensitive or harmful."
+if "criteria_1" not in st.session_state:
+    st.session_state.criteria_1 = "The contents of the teaching plan is relevant to national curriculum and the plan is feasible. But the teaching plan does not cover topics mentioned in national curriculum and it lacks details of activity. "
+if "criteria_2" not in st.session_state:
+    st.session_state.criteria_2 = "The contents of the teaching plan is relevant to national curriculum and the plan is feasible, and it has a lot of details about activities. But it does not cover some topics in the national curriculum. "
+if "criteria_3" not in st.session_state:
+    st.session_state.criteria_3 = "The contents of the teaching plan is relevant to national curriculum and the plan is detailed with activities that will cover the most of the contents in the national curriculum. "
 
 # Short text inputs (stacked vertically)
-st.session_state.short_text1 = st.text_input("", label_visibility="collapsed", value=st.session_state.short_text1)
-st.session_state.short_text2 = st.text_input("", label_visibility="collapsed", value=st.session_state.short_text2)
-st.session_state.short_text3 = st.text_input("", label_visibility="collapsed", value=st.session_state.short_text3)
+st.session_state.criteria_0 = st.text_input("Criteria for giving a score of 0", value=st.session_state.criteria_0)
+st.session_state.criteria_1 = st.text_input("Criteria for giving a score of 1", value=st.session_state.criteria_1)
+st.session_state.criteria_2 = st.text_input("Criteria for giving a score of 2", value=st.session_state.criteria_2)
+st.session_state.criteria_3 = st.text_input("Criteria for giving a score of 3", value=st.session_state.criteria_3)
 
-# Create a card-like container using markdown with styling
-with st.container():
+if st.button("Evaluate Teaching Plan"):
+    evaluation_criteria = "[[0]]: {}\n[[1]]: {}\n[[2]]: {}\n[[3]]: {}\n".format(st.session_state.criteria_0, 
+                                                                                st.session_state.criteria_1, 
+                                                                                st.session_state.criteria_2, 
+                                                                                st.session_state.criteria_3
+                                                                                )
+
+    national_curriculum = st.session_state.national_curriculum
+    teaching_plan = st.session_state.teaching_plan
+    content = evaluate_teaching_plan_llm(evaluation_criteria, national_curriculum, teaching_plan)
+    st.session_state.evaluation_result = content
+
+if "evaluation_result" in st.session_state:
     st.markdown(
-        """
+        f"""
         <div style="
             padding: 15px;
             border-radius: 10px;
-            background-color: #f8f9fa;
+            background-color: #e9ecef;
             box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
             ">
-            <h3 style="color: #333;">Current Values</h3>
-            <p><strong>Short Text 1:</strong> {short_text1}</p>
-            <p><strong>Short Text 2:</strong> {short_text2}</p>
-            <p><strong>Short Text 3:</strong> {short_text3}</p>
-            <p><strong>Text 1:</strong> {text1}</p>
-            <p><strong>Text 2:</strong> {text2}</p>
+            <h3 style="color: #333;">Evaluation Result</h3>
+            <p>{st.session_state.evaluation_result}</p>
         </div>
-        """.format(
-            short_text1=st.session_state.get("short_text1", ""),
-            short_text2=st.session_state.get("short_text2", ""),
-            short_text3=st.session_state.get("short_text3", ""),
-            text1=st.session_state.get("text1", ""),
-            text2=st.session_state.get("text2", ""),
-        ),
+        """,
         unsafe_allow_html=True,
     )
+
