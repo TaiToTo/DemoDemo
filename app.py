@@ -55,6 +55,11 @@ st.set_page_config(layout="wide")
 
 st.header("Evaluation of Short-Term Teaching Plan")
 
+st.write("""By elaborating a prompt, you can guide an AI to score a short-term teaching plan based on custom standards.
+You see an the section 2.3.4.1. from the Estonian social study curriculum, which is about Social Relation.
+And you can edit a demo short-term teaching plan and criteria for giving evaluation scores.
+Your short-term teaching plan will be evaluated by a generative AI model based on the criteria you set.""")
+
 col1, col2, col3 = st.columns([1, 2, 1])  # Create three columns, with the center column being larger
 with col2:
     st.image("static/llm-as-a-judge.jpg", use_container_width =True)
@@ -74,7 +79,7 @@ st.markdown(
         font-weight: bold;
         font-size: 20px;
         ">
-        An example part of national curriculum
+        An example part from the Estonian basic school curriculum.
     </div>
     <br>
     """,
@@ -105,7 +110,7 @@ st.markdown(
         font-weight: bold;
         font-size: 20px;
         ">
-        Draft of a short-term teaching plan
+        Draft of a short-term teaching plan (try to edit it and get a higher score!!)
     </div>
     """,
     unsafe_allow_html=True,
