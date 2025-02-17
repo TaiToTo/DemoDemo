@@ -178,10 +178,11 @@ if "evaluation_result" in st.session_state:
         font-weight: bold;
         font-size: 20px;
         ">
-        The prompt used for evaluation
+        The actual prompt used for evaluation
     </div>
     """,
     unsafe_allow_html=True,
     )   
+    
     st.json({evaluation_prompt}, expanded=False)
 
