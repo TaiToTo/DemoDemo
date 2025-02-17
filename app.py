@@ -62,7 +62,7 @@ Your short-term teaching plan will be evaluated by a generative AI model based o
 
 col1, col2, col3 = st.columns([1, 2, 1])  # Create three columns, with the center column being larger
 with col2:
-    st.image("static/llm-as-a-judge.jpg", use_container_width =True)
+    st.image("static/evaluator.jpg", use_container_width =True)
 
 # Initialize session state for long text areas
 if "text1" not in st.session_state:
