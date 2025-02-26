@@ -1,0 +1,316 @@
+annotations: 'Subject field: informatics'
+children:
+- annotations: 1. General Provisions
+  children:
+  - annotations: 1.1. Educational Goals
+    children:
+    - annotations: ''
+      children: []
+      id: 3
+      label: 'The subject of informatics at the basic school level strives to direct
+        the students to: <br>1) develop the basic skills of learning and working with
+        computer, primarily to search for information, <br>process and analyse it,
+        and to compile text documents and presentations; <br>2) comprehend and know
+        how to avoid potential health, security and personal data protection threats
+        <br>that are likely to occur when using information and communication technology
+        (hereinafter: ICT); <br>3) create, using ICT means, a functioning and efficient
+        learning environment; and <br>4) participate in virtual communities and use
+        the online environment to publish digital materials in <br>compliance with
+        good practice in intellectual property protection.'
+      text_type: text
+    id: 2
+    label: 1.1. Educational Goals
+    text_type: section_title
+  - annotations: 1.2. Description of the Subject
+    children:
+    - annotations: ''
+      children: []
+      id: 5
+      label: 'The general goal of teaching informatics is to ensure that basic school
+        graduates are able to use the ICT to <br>shape their current working and learning
+        environments. Hence, school informatics focuses primarily on the <br>competences
+        needed in the school context and less on compliance with the future job requirements.
+        <br>Informatics at the basic school level does not have to be taught on the
+        basis of the structure and content of <br>the academic discipline of computer
+        science that is the indirect foundation of the school subject of <br>informatics.
+        The teacher should instead proceed first and foremost in accordance with the
+        daily needs of <br>students as computer and Internet users. At the same time
+        it is recommended to offer to students attending <br>science-biased schools
+        the additional course entitled “Introduction to computer science”. <br> <br>The
+        following are the principles of teaching informatics at the basic school level:
+        <br>1) relevance: examples, tasks, etc. are derived from daily life and are
+        familiar to the students (school, <br>home, hobbies and mass media); <br>2)
+        active learning and creativity: preference is given to learning methods that
+        stimulate student <br>activeness and creativity; <br>3) innovation: novel
+        technology and solutions are preferred as encouraged by the cross-curriculum
+        <br>dimension “Technology and innovation”; <br>4) collaborative learning:
+        both during lessons of informatics and for home assignments preference is
+        <br>given to methods of collaborative learning; <br>5) knowledge creation:
+        new knowledge is co-constructed by learners through meaningful collaborative
+        <br>activities, not acquired by memorising outdated information; <br>2 <br>
+        <br>6) freeware and open content: wherever possible, free software and content
+        with flexible licenses are <br>preferred over proprietary software and copyrighted
+        content; <br>7) safety: the school promotes safe ways of network usage and
+        ensures that the online systems and <br>services used by students are secure
+        ; <br>8) integration with other subjects: learning tasks, such as abstracts
+        and presentations, use topics from <br>other subjects; and <br>9) independence
+        from software vendors: the study process cannot be based on the use of a <br>platform/solution
+        provided by just one software vendor; it is the duty of the school to introduce
+        <br>alternatives. <br> <br>The subject of informatics can be easily integrated
+        with all other subjects because ICT is a natural part of <br>the modern learning
+        environment. Such integration is bidirectional: on the one hand, learning
+        tasks for <br>informatics are compiled using topics from other subjects to
+        foster meaningful learning and, on the other <br>hand, ICT competences are
+        shaped in other subjects through the work on written texts and presentations,
+        <br>data collection and analysis. Special attention should be given to opportunities
+        for strong interrelation <br>between the updated civics and informatics syllabuses,
+        addressing the topics of the e-government, e-<br>inclusion and virtual communities.
+        The syllabus of informatics creates the conditions for the successful <br>integration
+        of the cross-curriculum dimension “Technology and innovation” into other subjects.
+        <br> <br>The approach to the subject of informatics is conventionally concentric
+        as the students revisit previously <br>acquired knowledge and skills in greater
+        depth at every subsequent stage of schooling. The main stress is <br>on practical
+        computer use when studying different subjects. <br>During the 1st stage of
+        study, ICT-related topics are studied as integrated into other subjects and
+        there is no <br>need for a separate informatics course. At the end of the
+        2nd stage of study it is recommended to teach the <br>first course from this
+        syllabus (“Working with Computer”) and during the 3rd stage of study  the
+        second <br>course, entitled “Information Society Technologies”.'
+      text_type: text
+    id: 4
+    label: 1.2. Description of the Subject
+    text_type: section_title
+  - annotations: '1.3. Learning activities are planned and conducted in the following
+      manner:'
+    children:
+    - annotations: ''
+      children: []
+      id: 7
+      label: '1) the basis consists of the fundamental values and general competences
+        stipulated in the <br>curriculum, the general goals of the subject, the content
+        of studies and the expected learning <br>outcomes, with support given to integration
+        with other subjects and cross-curriculum dimensions; <br>2) the students’
+        workload (including home assignments) should be moderate and evenly distributed
+        <br>throughout the school year, leaving them sufficient time to rest and pursue
+        their hobbies; <br>3) the students can study alone or with others (independent
+        and pair or group work) as this supports <br>their development as active and
+        independent learners; <br>4) differentiated learning tasks are given and their
+        content and levels of difficulty support an <br>individual approach and enhance
+        motivation to learn; <br>5) learning environments, teaching materials and
+        resources are used which are based on modern <br>information and communication
+        technology; <br>6) the learning environment is expanded: natural environment,
+        computer classroom, school yard, <br>museums, exhibitions, companies etc.;
+        <br>7) it should be remembered that the main stress is on shaping the skills
+        of creating an online <br>personal learning environment; <br>3 <br> <br>8)
+        it is ensured that the students also learn good practice in online behaviour,
+        including that in virtual <br>networks and official information systems (e-school,
+        e-learning environment and school and local <br>government websites); <br>9)
+        the topics studied should be interconnected based on cooperation between the
+        subject teachers <br>and timed to match civic studies, foreign languages and
+        studies of the native language. In the <br>middle of the course the students
+        begin working in smaller groups or pairs on a development <br>project, connecting
+        the topics of further studies with this project; <br>10) the students can
+        select project topics based on recommendations or requests from other subject
+        <br>teachers, parents, local companies, the local government or social networks;
+        <br>11) at the end of the course the students present the materials and solutions
+        created during their <br>project work.'
+      text_type: text
+    id: 6
+    label: '1.3. Learning activities are planned and conducted in the following manner:'
+    text_type: section_title
+  - annotations: 1.4. Physical Learning Environment
+    children:
+    - annotations: ''
+      children: []
+      id: 9
+      label: 'The students in the informatics classroom are guaranteed the use of
+        the following means:  <br>1) usually each student has a computer workstation;
+        in exceptional cases two students share one <br>computer; <br>2) data projector;
+        <br>3) possibility to save files on a network drive or in an online environment
+        offered/supported by the <br>school; <br>4) possibility to use additional
+        devices (printer and USB flash drive); <br>5) access to information systems
+        (e-school, intranet or online content management system and <br>group work
+        environment); <br>6) the computer workstations have adjustable chairs, computer
+        desks, forced ventilation and window <br>shades; <br>7) computers with different
+        operating systems (for instance, in addition to MS Windows, Mac OS or <br>Linux);
+        <br>9) ID card readers; <br>9) earphones and microphones; and <br>10) digital
+        photo camera and video camera.'
+      text_type: text
+    id: 8
+    label: 1.4. Physical Learning Environment
+    text_type: section_title
+  - annotations: 1.5. Assessment
+    children:
+    - annotations: ''
+      children: []
+      id: 11
+      label: 'The learning outcomes in the optional subject of informatics are assessed
+        during the course based on <br>completion of the learning tasks and at the
+        end of the course to summarise the results, usually with the aid <br>of the
+        e-portfolio. The e-portfolio is a personal online environment where each student
+        collects, over a <br>longer period of time, their completed work and thoughts
+        on the learning experience. At the end of the <br>course each student selects
+        those materials in the e-portfolio that best illustrate their acquired <br>competences
+        and there will be a public defence, if possible. E-portfolio can be compiled
+        by the students <br>either individually or collaboratively. The grade derived
+        from the portfolio defence represents the summative <br>assessment of the
+        course outcomes. The following aspects are assessed upon the e-portfolio presentation:
+        <br>1) studying with conformity to plan; creativity and rationality; <br>2)
+        achievement of the learning outcomes stipulated in the curriculum and convincing
+        proof by the <br>students of the possession of the relevant competence; <br>4
+        <br> <br>3) technical implementation, aesthetic qualities and originality
+        of materials created with the aid of <br>computers; <br>4) validity, depth
+        and meaningfulness of the students’ reflections on practical activities; and
+        <br>5) development of the competences.'
+      text_type: text
+    id: 10
+    label: 1.5. Assessment
+    text_type: section_title
+  id: 1
+  label: 1. General Provisions
+  text_type: section_title
+- annotations: 2. Syllabus
+  children:
+  - annotations: 2.1. Learning Outcomes and Learning Content and Learning Activities
+      in the 2st stage of study
+    children:
+    - annotations: ''
+      children: []
+      id: 14
+      label: 'Learning Outcomes <br>The students: <br>1) use computers to format shorter
+        and longer texts (for example: advertisements, posters and <br>abstracts),
+        adhering to the basic rules of text processing (uppercase and lowercase first
+        letter; <br>punctuation marks; return and spaces; text in bold, italics and
+        underlined; superscript and <br>subscript; word, row and paragraph spacing;
+        text alignment; styles and document templates; and <br>lists; colours, drawings,
+        images, charts and tables); <br>2) find on the Internet and copy into a text
+        file or presentation initial materials in different formats (text, <br>images,
+        tables and charts) and process them if necessary in compliance with good practice
+        in <br>intellectual property protection; <br>3) refer to and reuse initial
+        materials found on the Internet and in other information sources in a proper
+        <br>manner, avoiding plagiarism; <br>4) understand the need for critical assessment
+        of information found on the Internet, assess the <br>objectivity of information
+        sources and find, if necessary, sources offering alternative viewpoints <br>concerning
+        the same topic; <br>5) make skilful use of the graphical user interface of
+        the operating system (change the window size, <br>work switching between several
+        windows, change content viewing modes, sort files and perform <br>searches);
+        <br>6) save their work where assigned, find and open a previously saved file,
+        save it renamed, copy files <br>from one location to another and compare file
+        size with the free space on the data medium; <br>7) compile a presentation
+        on the assigned topic containing text, charts, tables, images, audio and video;
+        <br>8) design the presentation in a legible and aesthetically pleasing manner,
+        taking into account these <br>criteria among others: optimal information amount
+        on a slide, keywords instead of connected text, <br>source references and
+        minimalism in design; <br>9) compile, on the basis of received data, a data
+        sheet, frequency tables and charts of a suitable type <br>(column, pie or
+        line); <br>10) properly format these parts of an abstract: title page, automatically
+        generated table of contents, <br>introduction, chapters, chapter sections,
+        drawings, tables, header and footer, summary, <br>bibliography and annexes;
+        <br>11) save the completed abstract in different file formats (doc, odt and
+        pdf), compress the file, attach it to <br>an e-mail message and send it to
+        the teacher, upload the file to an online environment and print it <br>out;
+        <br>12) clarify how improper computer use can affect their health (addiction,
+        aberrations in joints and <br>posture, eye strain etc.) and know how to avoid
+        such risks when working with computers on a daily <br>basis: select the right
+        sitting posture, monitor duration of computer use, take breaks for eye and
+        <br>wrist exercises etc.; <br>5 <br> <br>13) protect their virtual identity
+        from misuse, choosing a new and strong password for every online <br>environment
+        they access and changing passwords frequently, and do not publish sensitive
+        <br>personal information on the Internet; <br>14) transfer digital photographs,
+        video clips and audio recordings from source devices to the computer; <br>and
+        <br>15) safely connect various additional devices to the computer (USB flash
+        drive, mouse, printer and <br>external hard drive). <br> <br>Course Content
+        <br>Computer as a means of work <br>Introduction to text processing. Text
+        entry, formatting and copying. Poster/advertisement compilation <br>and design.
+        Work methods: safe and economical computer use. <br>File management: saving,
+        copying, deleting and compressing. Graphical user interface of the operating
+        <br>system. Working with several windows. <br>Searching for information on
+        the Internet and work with multimedia files. Internet security, intellectual
+        <br>property rights and protection of personal data. Sending e-mails with
+        attachments. Transfer of digital <br>photographs, video clips and audio recordings
+        from cameras, dictaphones and telephones to the computer. <br>Data processing.
+        Compilation of data sheets and frequency tables. Creation of charts from frequency
+        <br>tables. <br>Presentation compilation. Slide structure and design. Adding
+        text, images, tables and charts to slides. <br>Abstract formatting. Header
+        and footer and styles in headings. Automatic generation of table of contents.
+        <br>Page numbering. <br> <br>Learning Activities <br> <br>The subject of informatics
+        at the 2nd stage of study is predominantly delivered in the form of exploratory
+        and <br>active learning. The students are allowed to learn new work methods
+        through self-activity. Lectures should <br>be avoided, but a systematic approach
+        to the skills studied must be ensured, primarily via well-planned <br>study
+        tasks with feedback. <br>To ensure understanding of the course content, self-reflection
+        on the acquired knowledge must be <br>supported along with oral reports. The
+        students must be able to explain their work methods and decisions <br>using
+        proper terminology in their native language. <br>In addition to predominantly
+        individual tasks, student group work must be facilitated (including an online
+        <br>environment). It is important to adhere to the principle of methodological
+        diversity, switching between <br>individual and group work and between exploratory
+        and presentational learning strategies in lessons. <br>The topics for abstracts
+        and presentations are usually taken from other subjects, thus improving subject
+        <br>integration.'
+      text_type: text
+    id: 13
+    label: 2.1. Learning Outcomes and Learning Content and Learning Activities in
+      the 2st stage of study
+    text_type: section_title
+  - annotations: 2.2. Learning Outcomes and Learning Content in the 3rd stage of study
+    children:
+    - annotations: ''
+      children: []
+      id: 16
+      label: 'Learning Outcomes <br>The students: <br>1) find, on the Internet, communities
+        that are of personal interest and join them; start a new virtual <br>community
+        if necessary and create an online cooperation environment for it; <br>6 <br>
+        <br>2) use the assigned or freely selected online environment purposefully
+        and safely; join the <br>environment, choose a secure password, create a user
+        profile and add materials; <br>3) reflect on the learning experience in a
+        blog; <br>4) cooperate with fellow-students to compile hypertext documents
+        with the aid of Wiki; <br>5) create new online content and reuse their own
+        or somebody else’s online content (text, images, <br>audio and data) in compliance
+        with good practice in intellectual property protection and the terms <br>and
+        conditions of the author’s licence; <br>6) make rational use of chosen keywords
+        and social bookmarks to tag personally created content and <br>that found
+        on the Internet; <br>7) add video clips, photographs and whole presentations
+        to web pages and subscribe to RSS feeds; <br>8) notice different levels of
+        security in online environments (for example: http vs https and security <br>certificates)
+        and take these into account when using an online environment; <br>9) use the
+        information systems offered by the school, local and national governments
+        and various e-<br>services for young people; <br>10) compare two assigned
+        online information sources: suitability, objectivity/bias and timeliness;
+        <br>11) apply, when working on a development project, the knowledge and skills
+        acquired during the <br>informatics course(s) from the previous school stage(s);
+        and <br>12) use a virtual identity safely and ethically: protect their identity,
+        are careful when communicating <br>with strangers in a virtual environment
+        (false identities) and avoid using somebody else’s identity. <br> <br>Course
+        Content <br> <br>Information society technologies <br>Internet as an environment
+        for communication and work. Different methods and means of searching <br>for
+        information. Registration and user profile creation in online environments.
+        Own virtual identity protection. <br>Basics of safe and ethical online behaviour.
+        Rules for using the school’s information systems and e-<br>learning environment.
+        <br>Estonian e-state and e-services. Using the ID card for authentication
+        and digital signatures. Finding and <br>using e-services on the local government
+        website. Using the citizens’ portal eesti.ee. <br>Creation of a personal learning
+        environment using social software. Using blogs to reflect on the learning
+        <br>experience. Using Wiki and online office software to create documents
+        in cooperation with fellow students. <br>Using social bookmarking and news
+        aggregating websites. Commencing the development project and <br>creating
+        an online cooperation environment for it. <br>Content production, reuse and
+        licences. Preserving, tagging and sharing online presentations, <br>photographs,
+        video clips, audio materials and data files. Subscribing to RSS feeds. Adding
+        photos, videos <br>and presentations to websites. Creating podcasts. <br>Participation
+        in a virtual practice community. Planning, conducting and documenting an online
+        meeting. <br>Organising a group discussion and problem-based learning in an
+        online environment. Group time <br>management. Managing different versions
+        of digital documents and cooperating during compilation of one <br>common
+        document. <br>Completion of a development project. Ensuring project prominence
+        with online means. Compiling a <br>presentation and the project report. Group
+        self-assessment.'
+      text_type: text
+    id: 15
+    label: 2.2. Learning Outcomes and Learning Content in the 3rd stage of study
+    text_type: section_title
+  id: 12
+  label: 2. Syllabus
+  text_type: section_title
+id: 0
+label: 'Subject field: informatics'

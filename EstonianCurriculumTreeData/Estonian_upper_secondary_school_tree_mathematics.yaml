@@ -1,0 +1,1386 @@
+annotations: 'Subject field: mathematics'
+children:
+- annotations: 1. General Principles
+  children:
+  - annotations: 1.1. Mathematics Competence
+    children:
+    - annotations: ''
+      children: []
+      id: 3
+      label: 'The objective of mathematics education in upper secondary school is
+        development of mathematics <br>competence, which means knowledge of systematic
+        nature of mathematical concepts and relations; ability <br>to use mathematics
+        in the field of mathematics as well as in other subjects and areas of life
+        by modelling <br>various tasks with the help of specific mathematical language,
+        symbols and methods; skill to present <br>problems, identify and implement
+        suitable solution strategies, analyse solutions, verify the accuracy of <br>results;
+        skill of logical reasoning, justification and proof, understanding and use
+        of different solution <br>methods; interest in mathematics and use of links
+        between mathematics and information and <br>communication technology (ICT)
+        tools. <br> <br>Teaching mathematics is aimed at the upper secondary school
+        graduate having developed the capability <br>to: <br>1) value mathematics
+        and assess and consider their mathematics competence when planning their <br>career;
+        <br>2) have acquired a systematic and closely related overview of the terms,
+        relations and procedures of <br>the different areas of mathematics; <br>3)
+        understand and analyse mathematical texts and present their mathematical trains
+        of thought both <br>orally and in writing; <br>4) discuss in a creative and
+        logical manner and find and implement suitable strategies to solve open-<br>end
+        problem; <br>5) formulate mathematical hypotheses and justify and prove them;
+        <br>6) understand the quantitative, logical, functional, statistical and spatial
+        relations present in the <br>surrounding world; <br>7) use mathematical methods
+        in other subjects and fields of life, can present a problem in <br>mathematical
+        language and interpret and critically assess mathematical models; <br>8) interpret
+        different ways of presenting mathematical information (graphs, tables, formulas,
+        diagrams <br>and texts), are able to choose appropriate presentation manners
+        and switch from one manner to <br>another; and <br>9) use numerous sources
+        of information (models, reference books, ICT tools etc.) in their <br>mathematical
+        activities and critically assess information within them; <br>10) understand
+        social, cultural and personal significance of mathematics. <br> <br> <br>
+        <br>2'
+      text_type: text
+    id: 2
+    label: 1.1. Mathematics Competence
+    text_type: section_title
+  - annotations: 1.2. Subjects of the Subject Field and number of courses
+    children:
+    - annotations: ''
+      children: []
+      id: 5
+      label: 'The subject domain includes narrow mathematics and extensive mathematics.
+        <br>The compulsory 8 courses of narrow mathematics are: ‘Numerical quantities.
+        Expressions. Equations and <br>inequalities’; ‘Trigonometry’; ‘Vector on Plane.
+        Equation of a line’; ‘Probability and statistics’; ‘Functions’; <br>‘Sequences.
+        Function derivative’; ‘Integral.Plane figures’, ‘Stereometry’. <br>The compulsory
+        14 courses of extensive mathematics are: ‘Expressions. Numerical quantities’;
+        ‘Equations <br>and equation systems’; ‘Inequalities. Trigonometry Part 1’;
+        ‘Trigonometry Part 2’; ‘Vector on plane. Equation <br>of a line’; ‘Probability
+        and statistics’; ‘Functions. Numeric sequences’; ‘‘Exponential and logarithm
+        function’; <br>Trigonometric functions’; ‘Limit and derivative of function’;
+        ‘Applications of derivative’; ‘Integral. Planimetry’; <br>‘Line and plane
+        in space’; ‘Stereometry’; ‘Applications of mathematics and study of actual
+        processes.’ <br>The subject field includes 8 optional courses: ‘Logic’; ‘Elements
+        of Economical Mathematics’; ‘Elements of <br>Number Theory Part 1’; ‘Elements
+        of Number Theory Part 2’; ‘Elements of Discreet Mathematics Part 1’; <br>‘Elements
+        of Discreet Mathematics Part 2’; ‘Planimetry Part 1: Geometry of Triangles
+        and Circles’; and <br>‘Planimetry Part 2: Geometry of Polygons and Circles.’
+        <br>Elective courses of the subject field can also include courses described
+        under the field of natural science: <br>‘Natural science, technology and society’,
+        ‘Mechatronics and robotics’, ‘3D modelling’, ‘Technical drawing’, <br>‘Use
+        of computers for inquiry’, ‘Basics of programming and development of software
+        applications’.'
+      text_type: text
+    id: 4
+    label: 1.2. Subjects of the Subject Field and number of courses
+    text_type: section_title
+  - annotations: 1.3. Description of the Subject Field
+    children:
+    - annotations: ''
+      children: []
+      id: 7
+      label: Extensive and narrow mathematics differ by both content and approach.
+        Extensive mathematics deals with <br>the terms and methods necessary to understand
+        the nature of mathematics as a science. The purpose of <br>teaching narrow
+        mathematics is observing the application of mathematics in order to describe
+        the world <br>around human beings in a scientific manner and ensure success
+        in life.  Students with deeper interest in <br>mathematics can use the study
+        time for elective subjects, nationwide in-depth study forms and individual
+        <br>study. The elective courses specified in the subject syllabus can be added
+        to both narrow and extensive <br>mathematics.  <br>The required environment
+        for this purpose is created by means of dealing with mathematical terms, <br>symbols,
+        properties and relations, laws and procedures and by presenting trains of
+        thought based on <br>intuition and logical discussions. Both narrow and extensive
+        mathematics give pupils the tools and skills to <br>apply appropriate mathematical
+        methods in other subjects. <br>Students with deeper interest in mathematics
+        can use the study time for elective subjects, nationwide in-<br>depth study
+        forms and individual study.  <br>The obligatory courses included in the syllabus
+        can be added to both narrow and extensive mathematics.  <br>The pupils who
+        study narrow mathematics are allowed to switch to extensive mathematics and
+        the pupils <br>who study extensive mathematics are allowed to switch to narrow
+        mathematics. The conditions of transition <br>are provided in the school curriculum
+        <br> <br> <br>3
+      text_type: text
+    id: 6
+    label: 1.3. Description of the Subject Field
+    text_type: section_title
+  - annotations: 1.4. Options for forming general competencies
+    children:
+    - annotations: ''
+      children: []
+      id: 9
+      label: 'The study of mathematics develops all general competences described
+        in the national curriculum for upper <br>secondary school students. The teacher
+        plays a crucial role in shaping the four interconnected components <br>of
+        competences – knowledge, skills, values and behaviour – with the teacher’s
+        values and self-assertion <br>skills creating a suitable learning environment
+        and influencing upper secondary school students’ values and <br>behaviour.  <br>Cultural
+        and value competence. By studying mathematics, pupils become familiar with
+        the achievements <br>of mathematicians from different countries and eras,
+        which enables them to recognise connections <br>between different cultures.
+        Pupils are guided to recognise the elegance of logical trains of thought and
+        <br>notice the harmony of geometrical figures in architecture and nature.
+        Persistence, objectivity, preciseness <br>and diligence are developed. <br>Social
+        and citizenship competence. Responsibility towards society and fellow citizens
+        is raised by <br>solving word problems with relevant content. Various paired
+        and group work assignments help to develop <br>cooperation and mutual assistance
+        skills and enable teachers to use different forms of collective work in <br>mathematics
+        lessons as well. Education increases tolerance towards students with different
+        mathematical <br>abilities.   <br>Self-awareness competence. By means of independent
+        problem solving with varying levels of difficulty, <br>pupils can assess and
+        develop their mathematical abilities. For this purpose, open problem-solving  <br>problems
+        are most suitable. <br>Learning to learn competence. By solving problems,
+        pupils develop analytical, rational method finding <br>and critical outcome
+        assessment skills. Solving of text problems helps to develop functional reading
+        skills: <br>ability to differentiate important and unimportant elements and
+        see connections between objects. They also <br>expand their generalisation
+        and analogy-using skills as well as the skill of using the acquired knowledge
+        in <br>new situations. Pupils are guided towards the understanding that ideas
+        of solution of problems can only be <br>found by using independent thought.
+        <br>Communication competence. Mathematics develops pupils’ ability to express
+        their ideas clearly, briefly <br>and precisely. Above all, this takes place
+        by means of presenting correct definitions, formulating <br>hypotheses and
+        assertions or theorems and also when formulating solutions of problems. By
+        solving word <br>problems, pupils develop their functional reading skills:
+        they learn how to distinguish between the relevant <br>and the irrelevant
+        and see the relations between objects. Mathematics has an important role in
+        developing <br>preparedness to understand, associate and communicate information
+        presented in different ways. <br>Mathematics also expands pupils’ ability
+        to formulate information presented in everyday language and vice <br>versa,
+        to present the content of mathematical symbols and formulas in everyday language.
+        <br>Entrepreneurial competence. New mathematical knowledge is often acquired
+        by means of analysing the <br>characteristics of the objects under observation:
+        pupils study the common properties of the objects, on the <br>basis of which
+        they formulate a hypothesis and come up with ideas to justify the validity
+        of the hypothesis. <br>Education develops the skill of seeing and formulating
+        problems, generating and analysing ideas. Changes <br>caused by different
+        parameters of an object can be examined by solving problems involving probability
+        <br>theory and functions. Identification of different solution paths for a
+        problem improves the flexibility of <br>thought. Finding different solutions
+        to a problem develops pupils’ flexible thinking. Entrepreneurial <br>competence
+        is also developed by means of solving various problems involving actual data
+        and through <br>long-term projects. <br>4 <br> <br>Natural sciences and technology
+        competence. Studying mathematics is inevitable to use technological <br>aids
+        in solving problems. Mathematics as a language of science allows to understand
+        the significance of <br>science and technology development.'
+      text_type: text
+    id: 8
+    label: 1.4. Options for forming general competencies
+    text_type: section_title
+  - annotations: 1.5. Options for integrating subjects with other subject fields
+    children:
+    - annotations: ''
+      children: []
+      id: 11
+      label: The prerequisite for integrating mathematics within a subject includes
+        the order of courses offered in the <br>syllabus. Integrating mathematics
+        with other subject fields and information from outside subjects takes <br>place
+        in implementing the school curriculum.
+      text_type: text
+    id: 10
+    label: 1.5. Options for integrating subjects with other subject fields
+    text_type: section_title
+  - annotations: 1.6. Options for implementing cross curricular topics
+    children:
+    - annotations: ''
+      children: []
+      id: 13
+      label: The cross-curricular topics introduced in the general part of the curriculum
+        are primarily realised in upper <br>secondary school mathematics lessons by
+        systematically organising study activities and the topical content <br>of
+        various problems. <br>Lifelong learning and career planning.  <br>The study
+        of mathematics through various learning activities helps to shape students’
+        preparation to <br>understand and appreciate lifelong learning as a lifestyle
+        and to interpret career planning as a continuous <br>decision making process.
+        Educational activities offer opportunities for direct contacts with the world
+        of <br>employment, e.g., through visits to undertakings, presentations of
+        occupations, professions and further <br>education opportunities related to
+        the subject field. Education develops independent study skills and <br>responsibility,
+        as well as skills to find and analyse information on further education opportunities,
+        based on <br>one’s development needs, and to prepare a career plan.  Various
+        learning activities, including independent <br>projects, enable students to
+        link their interests and abilities with subject-specific knowledge and skills
+        and to <br>understand that hobbies can help to balance personal life and career.
+        Realistic assessment of one’s <br>abilities is a crucial precondition of further
+        career planning. Mathematics lessons develop the ability of <br>abstract and
+        logical reasoning, which is necessary for weighing different impact factors
+        in career choice. <br>Students develop their studying and communication skills,
+        as well as cooperation, decision making and <br>information handling skills,
+        which are also required in future employment.   <br>Environment and sustainable
+        development. When analysing the environmental resources data, pupils <br>are
+        encouraged to develop a sustainable attitude towards their surroundings and
+        taught to value the <br>physical and social environment. When handling the
+        topic, descriptive mathematics related to percentage <br>calculation, change
+        and relation and elements of statistics are relevant. <br>Cultural identity.  An
+        introduction to the history of mathematics and relations between the development
+        of <br>society and mathematical science are relevant. By means of percentage
+        calculation and statistics, pupils <br>are able to describe the processes
+        occurring in society in relation to the topic of the multicultural world.
+        <br>Geometry plays an important part in the cultural sphere. <br>Civil initiative
+        and enterprise. Finding different solution paths for problems is associated
+        with enterprise. <br>Initiative and cooperation skills can be developed through
+        research, group work and projects. <br>Technology and innovation. By means
+        of integrating mathematics courses with technology and natural <br>sciences,
+        pupils can become familiar with the methods of describing and modelling technological
+        <br>processes. Pupils using the ICT solve actual problems and make studying
+        more efficient. Studying <br>5 <br> <br>mathematics make opportunities to
+        discover, notice regularities and contribute the development of creative <br>people.
+        <br>Information environment. Statistics and percentage calculations contribute
+        to an understanding of media <br>manipulations and development of critical
+        information analysis skills. <br>Health and safety. Problems including health
+        and safety data can teach how to assess risk factors based <br>on objective
+        data.  <br>Values and morality. The study of mathematics develops decency,
+        diligence, systematic approach, <br>persistence, steadiness and integrity.
+        Mathematics plays an important role in developing a tolerant attitude <br>to
+        fellow students with different abilities.
+      text_type: text
+    id: 12
+    label: 1.6. Options for implementing cross curricular topics
+    text_type: section_title
+  - annotations: 1.7. Planning and Organizing Study Activities
+    children:
+    - annotations: ''
+      children: []
+      id: 15
+      label: 'In planning and organising curricular activities: <br>1) the starting
+        point is basic values, general competences, subject competencies,  educational
+        goals <br>and the expected learning outcomess of the curriculum, while also
+        supporting integration with other <br>subjects, generic competencies and cross-curricular  topics;
+        <br>2) the aim is to achieve a moderate learning load (including homework)
+        which is divided evenly during <br>the whole school year and leaves the students
+        enough time for rest and recreational activities; <br>3) the students are
+        given the opportunity to take part in individual and group learning (individual,
+        <br>paired and group work, educational excursions, practical work, work in
+        computer-based learning <br>environments and with materials from the Internet
+        and other sources of information) to support their <br>development as active
+        and independent learners; <br>4) differentiated study assignments are used,
+        the essence and level of difficulty of which should <br>support an individualised
+        approach and increase students’ motivation to study; <br>5) learning environments
+        as well as learning materials and equipment based on ICT are used; <br>6)
+        the educational environment is broadened: computer classes, the school yard,
+        natural <br>environments, museums, exhibitions, enterprises, etc.;  <br>7)
+        the learning process is supported by a wide range of active learning approaches:
+        role play, <br>discussions, debates, project learning, compiling learning
+        folders and research papers, practical <br>work and students` investigations
+        etc. <br>In planning the learning activities, teachers have a professional
+        right, in cooperation with students, to make <br>choices regarding the presentation
+        of contents with a view of ensuring achievement of required learning <br>outcomes
+        and development of general and field-specific competences, based on students’
+        existing <br>knowledge and skills.'
+      text_type: text
+    id: 14
+    label: 1.7. Planning and Organizing Study Activities
+    text_type: section_title
+  - annotations: 1.8. Assessment
+    children:
+    - annotations: ''
+      children: []
+      id: 17
+      label: 'Assessment of learning results is based on the stipulations in the general
+        part of the Upper Secondary School <br>National Curriculum and school curriculum.
+        The assessment forms include formative and summarising <br>assessment. <br>6
+        <br> <br>Formative assessment provides information on general problem solving
+        skills, mathematical reasoning and <br>students’ attitude towards mathematics.
+        During lessons or other learning activities, students are given <br>feedback
+        on their knowledge and skills in the subject and subject field, as well as
+        attitudes and values. In <br>cooperation with fellow students and the teacher,
+        a student receives encouraging and constructive <br>feedback on his or her
+        strengths and weaknesses, based on established goals and learning outcomes.
+        <br>Assessment covers knowledge and respective application skills as well
+        as attainment of general <br>competences, incl. studying skills, based on
+        oral answers, written assignments and practical activities. <br>Selection
+        of assessment methods is made in consideration of students’ age-specific differences,
+        individual <br>abilities and preparedness to handle specific activities. <br>The
+        teacher’s verbal assessment, numerical grade and the student’s self-assessment
+        are all equally <br>important in assessment. Teacher’s guidance helps the
+        student to assess his or her performance and <br>results and manage personal
+        development in the subject. Not only the result but also the process is <br>assessed
+        in case of practical assignments and problems. When assessing written assignments,
+        teachers <br>also correct spelling mistakes, but do not take them into account
+        in assessment. <br> <br>The design and, consequently, assessment of studies
+        is based on hierarchical structure of cognitive <br>processes:  <br>1) Knowledge
+        of facts, procedures and terms: recall, recognition, finding information,
+        calculation, <br>measuring and classifying/ordering. <br>2) Application of
+        knowledge: choice of methods, presentation of mathematical information in
+        different <br>ways, modelling and solving routine problems. <br>3) Discussion:
+        reasoning, analysis, synthesis, generalisation, assessment of results and
+        solving <br>actual and non-routine problems.'
+      text_type: text
+    id: 16
+    label: 1.8. Assessment
+    text_type: section_title
+  - annotations: 1.6. Physical Study Environment
+    children:
+    - annotations: ''
+      children: []
+      id: 19
+      label: 1. The school organises education in a classroom which has the necessary
+        tools for drawing on the <br>board. <br>2. If necessary, the school enables
+        in the mathematics classroom the use of laptop or personal <br>computers with
+        an Internet connection at a ratio of at least one computer to five pupils.
+        <br>3. The school organises a set of plane and solid figures for classroom
+        use. <br>4. The school organises a set of pocket calculators for classroom
+        use.
+      text_type: text
+    id: 18
+    label: 1.6. Physical Study Environment
+    text_type: section_title
+  - annotations: 1.9. Physical learning environment
+    children:
+    - annotations: ''
+      children: []
+      id: 21
+      label: 'The school provides: <br>1) a classroom with necessary tools for drawing
+        on the board; <br>2) if necessary, the classroom should include ICT tools
+        connected to the Internet and with <br>presentation equipment; <br>3) a set
+        of plane and solid figures for classroom use; <br>4) a set of pocket calculators
+        for classroom use.'
+      text_type: text
+    id: 20
+    label: 1.9. Physical learning environment
+    text_type: section_title
+  id: 1
+  label: 1. General Principles
+  text_type: section_title
+- annotations: 2. Syllabuses
+  children:
+  - annotations: 2.1. Narrow Mathematics
+    children:
+    - annotations: ''
+      children: []
+      id: 24
+      label: '7'
+      text_type: text
+    - annotations: 2.1.1. Educational and Educational Objectives
+      children:
+      - annotations: ''
+        children: []
+        id: 26
+        label: 'Mathematics lessons at the upper secondary school level are designed
+          that students can: <br>1) understand information presented in mathematical
+          language; <br>2) use and interpret the various manners of presenting mathematical
+          information; <br>3) use mathematics to solve problems in different fields
+          of life; <br>4) value mathematics and find practising mathematics enjoyable;
+          <br>5) develop their intuition and discuss in a logical and creative manner;
+          <br>6) use numerous sources of information in their mathematical activities;
+          and <br>7) use ICT tools when studying mathematics.'
+        text_type: text
+      id: 25
+      label: 2.1.1. Educational and Educational Objectives
+      text_type: section_title
+    - annotations: 2.1.2. Description of the Subject
+      children:
+      - annotations: ''
+        children: []
+        id: 28
+        label: The purpose of narrow mathematics is to teach pupils to understand
+          information presented in mathematical <br>language and to use mathematics
+          in everyday life situations, thus ensuring the social coping skills of pupils.
+          <br>In narrow mathematics, the teaching process is descriptive and illustrative
+          and the justification of <br>mathematical assertions is based on intuition
+          and analogy. Applied problems form an essential part of the <br>syllabus.
+        text_type: text
+      id: 27
+      label: 2.1.2. Description of the Subject
+      text_type: section_title
+    - annotations: 2.1.3. Learning Outcomes in Upper Secondary School
+      children:
+      - annotations: ''
+        children: []
+        id: 30
+        label: 'Graduates of upper secondary school: <br>1) compile and use appropriate
+          mathematical models in order to solve problems in different fields of <br>life;
+          <br>2) understand and distinguish between functional and statistic processes;
+          <br>3) simplify expressions and solve equations and inequalities; <br>4)
+          use trigonometry when solving problems  connected with geometrical  figures;
+          <br>5) present basic lines on a plane by means of formulas and sketch the
+          given line on the basis of the <br>formula; <br>6) use the numerical data
+          describing the probability and distributions of random events by examining
+          <br>the effects of different fields of life; <br>7) know the properties
+          of functions learnt and use them; <br>8) find line elements, areas and volumes
+          of geometric figures; <br>9) express themselves precisely and briefly by
+          using mathematical language and solving problems <br>discuss in a creative
+          and logical manner; <br>10) use ICT tools when studying mathematics and
+          looking for and processing data;  <br>11) assess their mathematical knowledge
+          and skills and consider them when planning further activities; <br>and <br>12)
+          know the occupations and professions associated with the subject field,
+          understand the <br>connections between subject field knowledge and labour
+          market opportunities, and analyse their <br>subject-specific knowledge and
+          skills when planning their education.'
+        text_type: text
+      id: 29
+      label: 2.1.3. Learning Outcomes in Upper Secondary School
+      text_type: section_title
+    - annotations: 2.1.4. Learning Outcomes and Learning Content of the Courses
+      children:
+      - annotations: ''
+        children: []
+        id: 32
+        label: 'Course 1: ‘Numerical Quantities. Expressions. Equations and Inequalities.’
+          <br> <br>8 <br> <br>Learning Outcomes <br>At the end of the course, student
+          can: <br>1) distinguish between rational, irrational and real numbers; <br>2)
+          distinguish between equivalence, identity, equation and inequality; <br>3)
+          explain the identity transformations used to solve equations and inequalities;
+          <br>4) solve linear, quadratic and simplest fraction equations with one
+          unknown and equations <br>transformable to such equations; <br>5) perform
+          operations with powers and roots by transforming the latter to powers with
+          rational number <br>exponents; <br>6) transform simple  rational and  irrational
+          expressions; <br>7) solve linear and root inequalities and linear inequality
+          systems with one unknown; and <br>8) solve simple word problems, including
+          ones based on real life by means of equations and equation <br>systems.
+          <br> <br>Learning Content <br>Set of natural numbers N, set of integers
+          Z and set of rational numbers Q. Set of irrational numbers I. Set of <br>real
+          numbers R. Domains of real numbers on a number line. Absolute value of numbers.
+          Simplification of <br>rational expressions. n-root of numbers. Generalisation
+          of the term ‘power’: power with integer and rational <br>exponent. Fractional
+          equation. Presentation of the root of a number as a power with rational
+          number <br>exponent. Operations with powers and examples of operations with
+          roots with equal degree of root. The <br>term ‘equation’ and its properties.
+          Linear and root inequalities. Solving simple word problems, including <br>ones
+          based on real life by means of equations. <br> <br>Course 2: ‘Trigonometry.’
+          <br> <br>Learning Outcomes <br>At the end of the course, student can: <br>1)
+          define the sine, cosine and tangent of any angle; <br>2) read graphs of
+          trigonometric functions; <br>3) transform an angle given in degrees to radians
+          and vice versa; <br>4) transform simple trigonometric expressions; <br>5)
+          use the formulas of triangle area and the sine and cosine theorem; <br>6)
+          solve triangles, calculate areas of a triangle, parallelogram and polygon,
+          calculate an arc of a <br>circumference as a part of the length of the circumference
+          and a sector of a circle as a part of the <br>area of the circle; and <br>7)
+          solve simple planimetry problems with applied content. <br> <br>Learning
+          Content <br>Generalisation of the term ‘angle’, radian measure. Trigonometric
+          functions ( ) of any angle, and their <br>values if the angles are of 00,
+          300, 450, 600, 900, 1800, 2700 or 3600. Trigonometric functions of negative
+          <br>angles. Graphs of  <br> <br>x<br>y<br>sin<br><br>, <br>x<br>y<br>cos<br><br>and
+          <br>x<br>y<br>tan<br><br> functions. Fundamental relations of <br>trigonometry:<br>
+          <br><br><br><br>cos<br>sin<br>tan<br><br>,cos<br>sin<br>2<br>2<br><br><br><br><br>,
+          <br>)<br>90<br>sin(<br>cos<br>0<br><br><br><br><br>, <br>)<br>90<br>cos(<br>sin<br>0<br><br><br><br><br>,
+          <br>)<br>90<br>tan(<br>1<br>tan<br>0<br><br><br><br><br>, <br><br><br>sin<br>)<br>sin(<br><br><br><br>,
+          <br><br><br>cos<br>)<br>cos(<br><br><br>, <br><br><br>tan<br>)<br>tan(<br><br><br><br>,
+          <br><br><br>sin<br>)<br>360<br>sin(<br>0 <br><br>k<br>, <br><br><br>cos<br>)<br>360<br>cos(<br>0
+          <br><br>k<br>, <br><br><br>tan<br>)<br>360<br>tan(<br>0 <br><br>k<br>.
+          Sine and cosine <br>9 <br> <br>theorem. Formulas for finding an area of
+          a triangle and their application when calculating the area of a <br>polygon.
+          Solving a triangle. Calculating an arc of a circumference as a part of the
+          length of the <br>circumference, and a sector of a circle as a part of the
+          area of the circle. Problems with applied content. <br> <br>Course 3: ‘Vector
+          on a Plane. Equation of Line.’ <br> <br>Learning Outcomes <br>At the end
+          of the course, student can: <br>1) explain the term ‘vector’ and the coordinates
+          of a vector; <br>2) know a line, circumference and parabola as well as their
+          equations and know the opposite <br>positions of lines on a  plane; <br>3)
+          add and subtract vectors and multiply vectors by a number both geometrically
+          and on the form of <br>coordinate; <br>4) find the scalar product of vectors
+          and  use  properties of perpendicularity and collinearity of vectors; <br>5)
+          compile an equation for a line if the line is determined by a point and
+          a slope, by a slope and a <br>starting ordinate and by two points; <br>6)
+          determine the mutual positions of lines on a plane; <br>7) compile an equation
+          for a circumference by a central point and a radius; <br>8) draw lines,
+          circumferences and parabolas by their equations; <br>9) find the intersections
+          of two lines (if one of the lines is a straight line); and <br>10) use vectors
+          and equations for lines in geometry problems.  <br> <br>Learning Content
+          <br>Determination of a point position on a plane. Distance between two points.
+          The term ‘vector’ and its symbol. <br>Equality of vectors. Zero vector,
+          unit vector, opposite vector, related vector and free vector. Representation
+          <br>of power as a vector. Coordinates of vectors. Length of vectors. Multiplication
+          of a vector by a number. <br>Addition and subtraction of vectors (geometrically
+          and on a form of coordinate). Angle between two vectors. <br>Scalar product
+          of two vectors and its applications. Collinearity and  perpendicularity
+          of vectors. Equation for <br>a straight line (straight line determined by
+          a slope and a starting ordinate, by two points and by a point and <br>a
+          slope). Mutual positions of two lines on a plane. Angle between two straight
+          lines. Equation of a parabola. <br>Equation of r a circumference. Finding
+          the intersections of lines. Equation system compiled by a linear <br>equation
+          with two unknowns, and a linear and a quadratic equation. Problems with
+          applied content. <br> <br>Course 4: ‘Probability and Statistics.’ <br> <br>Learning
+          Outcomes <br>At the end of the course, student can: <br>1) distinguish between
+          random, certain and impossible events; <br>2) understand the concept of
+          event probability and is able to find the number of favourable and all <br>instances
+          (counting, combinatorics);  <br>3) know the nature of the distribution of
+          random variables the meaning of the numerical characteristics <br>of random
+          variables; <br>4) know the terms ‘sample’ and ‘general  dataset’ as well
+          as the meaning of reliability of data <br>classification and statistical
+          decision; <br>5) calculate the probability of an event and use it when solving
+          simple problems  connected with <br>actual data; <br>10 <br> <br>6) calculate
+          the numerical characteristics of a random event and draw conclusions regarding
+          the <br>problem under observation; <br>7) find the mean confidence region
+          of a general dataset on the basis of a sample; and <br>8) collect data and
+          analyse it by statistical means of ICT. <br> <br>Learning Content <br>Event.
+          Types of events. Relative frequency and statistical probability. Classical
+          probability. Geometric <br>probability. Product of events. Probability of
+          product of independent events. Sum of events. Probability of <br>sum of
+          exclusive events. Factorial. Permutations. Combinations. Binomial coefficient.
+          Discreet random <br>variable, its distribution law, distribution polygon
+          and numerical characteristics (mean, mode, median and <br>standard deviation).
+          General dataset and sample. Collection of data and data classification.
+          Analysis of <br>dataset by one criterion. Normal distribution (descriptively).
+          Reliability of statistical decisions based on <br>mean of confidence region.
+          Data processing project compiled bu ICT tools (recommended as cooperation
+          <br>project with other subject). <br> <br>Course 5: ‘Functions.’ <br> <br>Learning
+          Outcomes <br>At the end of the course, student can: <br>1) explain the term
+          and general symbol of a function, the terms connected with the investigation
+          of <br>functions, and know the terms of inverse function and odd and even
+          function; <br>2) draw graphs of the functions determined by the syllabus
+          (both by hand and on computer); <br>3) describe the main properties of a
+          function by means of the graph of function; <br>4) know the term and properties
+          of the logarithm of a number, find the logarithm and potentiate <br>simpler  expressions;
+          <br>5) solve simpler exponent and logarithmic equations by means of direct
+          use of the definitions of the <br>power and logarithm; <br>6) understand
+          the nature of increase and decrease by compound interest and use it to solve
+          simpler <br>problems involving actual data; <br>7) interpret quantities
+          expressed in percentages in other subjects and in real life; and <br>8)
+          solve main trigonometric equations in a given interval on the basis of a
+          graph. <br> <br>Learning Content <br>Functions <br>b<br>ax<br>y<br><br><br>,
+          <br>c<br>bx<br>ax<br>y<br><br><br><br>2<br> and<br>x<br>a<br>y <br>  <br>
+          (review). Term and general symbol of a function <br>Methods presentation
+          of functions. Domain and range of a functions. Even and odd functions. Zeros
+          of a <br>function, Domain of positivity and negativity of a function. Increase
+          and decrease of a function. Extreme of <br>functions. Functions<br>n<br>ax<br>y
+          <br> (<br>2<br>1<br>,2<br>,1<br><br><br><br>ja<br>n<br>). The term ‘logarithm
+          of a number’. Logarithm of a <br>product, quotient and power. Finding the
+          logarithm and potentiating (to an extent that enables pupils to <br>solve
+          simpler exponent and logarithmic equations). Inverse function. Functions<br>x<br>a<br>y
+          <br> and <br>x<br>y<br>a<br>log<br><br>. <br>Increase and decrease by
+          compound interest. Examples of models containing <br>ax<br>e . Simpler exponent
+          and <br>logarithmic equations. The terms arcsin m, arccos m and arctan m.
+          Examples of finding solutions to  main <br>trigonometric equations. <br>
+          <br>Course 6: ‘Sequences. Function derivative’ <br> <br>11 <br> <br>Learning
+          Outcomes <br>At the end of the course, student can: <br>1) understand the
+          terms ‘numeric’, ‘arithmetic’ and ‘geometric sequence’; <br>2) use the formulas
+          of the general member of arithmetic and geometric sequence and the sum of
+          the <br>first nth  members for simple problems based on real life; <br>3)
+          explain the terms ‘derivative of a function’ and ‘tangent of the function
+          graph’ and the geometric <br>meaning of derivative of a function; <br>4)
+          find the derivative of functions; <br>5) compile the equation for the tangent
+          of the function graph at a given point of tangency; <br>6) explain the relation
+          of  increase and decrease of function with the derivative of a function,
+          the term <br>extremum of a function  and the finding the extremum; <br>7)
+          find, as specified in the subject syllabus, the zeros, domains of positivity
+          and negativity, domains of <br>increase and decrease, maximum and minimum
+          points of simple functions and draw a graph of the <br>function on the basis
+          of this information; and <br>8) solve simple extremum problems. <br> <br>Learning
+          Content <br>The term ‘number sequence’ and general  member of a sequence.
+          Arithmetic sequence, formula for its <br>general  member and sum. Geometric
+          sequence, formula for its general member and sum. <br>Geometrical meaning
+          of the  derivative of a function. Slope of the tangent of a line and equation
+          of tangent. <br>Derivatives of the functions<br>)<br>(<br>Z<br>n<br>n<br>x<br>y<br><br><br>,
+          <br>x<br>e<br>y <br> and y = ln x. Derivates of the sum, difference, product
+          <br>and quotient of functions. Second derivative of a function.  Study of
+          the increase and decrease of a function <br>and using the derivative to
+          find the extreme points. Simplest extremum problems. <br> <br>Course 7:
+          ‘Planimetry. Integral.’ <br> <br>Learning Outcomes <br>At the end of the
+          course, student can: <br>1) recognise the geometric figures determined by
+          the syllabus and explain the main properties of the <br>figures; <br>2)
+          use the terms of geometry and trigonometry and their  main relations when
+          solving problems <br>connected with actual data; <br>3) recognise the term
+          ‘antiderivative’ and find indefinite integrals (from polynomials); <br>4)
+          recognise the term area under graph’ and use the Newton-Leibniz Formula
+          to calculate a  definite <br>integral; and <br>5) calculate the area of
+          plane figures on the basis of a given integral. <br> <br>Learning Content
+          <br>Triangles, quadrangles, regular polygons, circumference and circle.
+          Properties of these objects, relations <br>between elements, perimeters
+          and areas in problems with applied content. <br>Antiderivative and indefinite
+          integral. Definite integral. Newton-Leibniz Formula. Area under graph and
+          its <br>area. Integration of simple functions. Calculation of the area of
+          a plane figures on the basis of a definite <br>integral. Problems with applied
+          content. <br> <br> <br>Course 8: ‘Stereometry.’ <br>12 <br> <br> <br>Learning
+          Outcomes <br>At the end of the course, pupils can: <br>1) describe the coordinates
+          of a point in space and the  mutual positions of the straight lines and
+          <br>planes in space; <br>2) explain the terms of angles between two straight
+          lines, a line and a plane and two planes; <br>3) recognise the properties
+          of solids and  solids of revolution determined by the syllabus and the <br>process
+          of calculating their area and volume; <br>4) depict solid figures on a  plane
+          and their simple  cross sections with a plane (for instance, axial <br>cross
+          section, parallel cross section with a single face); <br>5) calculate the
+          line elements, areas and volumes of the solids determined by the syllabus;
+          <br>6)  use knowledge in trigonometry and planimetry to solve  simple stereometrical  problems
+          and <br>7) use solid figures as models to solve  problems connected with
+          actual data. <br> <br>Learning Content <br>Cartesian coordinates in t space.
+          Coordinates of a point. Distance between two points. Mutual positions of
+          <br>two lines in t space. Angle between two straight  lines. Mutual positions
+          of a straight  line and a plane in  <br>space. Angle between a straight
+          line and a plane. Properties of perpendicularity between a straight line
+          and <br>a  plane. Mutual positions of two planes in  space. Angle between
+          two planes. Prism and pyramid. Total <br>area and volume of vertical prisms
+          and regular pyramids. Cylinder, cone and sphere, their total area and <br>volume.
+          Examples of sections of solid figures with a plane. Practical  problems
+          on polyhedrons (vertical <br>prism and pyramid) and solids of revolution.'
+        text_type: text
+      id: 31
+      label: 2.1.4. Learning Outcomes and Learning Content of the Courses
+      text_type: section_title
+    id: 23
+    label: 2.1. Narrow Mathematics
+    text_type: section_title
+  - annotations: 2.2. Extensive Mathematics
+    children:
+    - annotations: 2.2.1. Educational and Educational Objectives
+      children:
+      - annotations: ''
+        children: []
+        id: 35
+        label: 'Mathematics lessons at the upper secondary school level are designed
+          that students can: <br>1) understand information presented in mathematical
+          language and present their mathematical trains <br>of thought both orally
+          and in written form; <br>2) choose, interpret and associate various manners
+          of presenting mathematical information; <br>3) discuss in a logical and
+          creative manner and develop their intuition; <br>4) formulate mathematical
+          hypotheses, argue and  prove them; <br>5) model problems in different fields
+          of life in a mathematical manner and assess mathematical <br>models critically;
+          <br>6) value mathematics and find practising mathematics enjoyable; <br>7)
+          use different sources of information in their mathematical activities and
+          critically assess the <br>information within them; and <br>8) use ICT tools
+          for study purposes.'
+        text_type: text
+      id: 34
+      label: 2.2.1. Educational and Educational Objectives
+      text_type: section_title
+    - annotations: 2.2.2. Description of Subject
+      children:
+      - annotations: ''
+        children: []
+        id: 37
+        label: Extensive mathematics introduces the meaning of mathematics in the
+          development of society and gives <br>examples of its application in everyday
+          life, technology, economy, natural and exact sciences and other <br>fields
+          of society. In order to achieve this objective, numerous problems with applied
+          content are solved by <br>13 <br> <br>means of a computer and appropriate
+          ICT software. Argumentation and proving hold an important place in <br>these
+          studies.
+        text_type: text
+      id: 36
+      label: 2.2.2. Description of Subject
+      text_type: section_title
+    - annotations: 2.2.3. Learning Outcomes in Upper Secondary School
+      children:
+      - annotations: ''
+        children: []
+        id: 39
+        label: 'Graduates of upper secondary school: <br>1) understand and use the
+          mathematical methods and procedures learnt; <br>2) discuss in a logical
+          and creative manner and formalise their mathematical trains of thought;
+          <br>3) understand and distinguish between functional and statistic processes;
+          <br>4) compile and use appropriate mathematical models in order to solve
+          problems in different fields of <br>life; <br>5) use different ICT tools
+          for study purposes; <br>6) transform irrational and rational expressions
+          and solve equations and inequalities and equation and <br>inequality systems;
+          <br>7) transform trigonometric expressions and use trigonometry and vectors
+          to solve problems of <br>geometry; <br>8) compile equations for a line and
+          draw known lines on the basis of their equations; <br>9) use numerical data
+          describing the probability of random events and distributions by studying
+          the <br>effects of different fields of life; <br>10) study functions on
+          the basis of derivative; and <br>11) know the properties of  plane and solid
+          figures and find the areas and volumes of geometrical <br>objects (also
+          by means of an integral). <br> <br>Course 1: ‘Expressions and Numerical
+          Quantities.’ <br> <br>Learning Outcomes <br>At the end of the course, student
+          can: <br>1) explain the properties of the set of natural numbers N, set
+          of integers Z, set of rational numbers Q, <br>set of irrational numbers
+          I, and set of real numbers R; <br>2) define the absolute value of numbers;
+          <br>3) mark the regions of real numbers on a  number line; <br>4) present
+          the root of a number as a power with a rational  exponent and vice versa;
+          <br>5) perform operations with powers  and roots with equal degrees of root;
+          <br>6) transform simpler rational and irrational expressions; and <br>7)
+          solve  problems with applied content (including percentage problems). <br>
+          <br>Learning Content <br>Set of natural numbers N, set of integers Z, set
+          of rational numbers Q, set of irrational numbers I and set of <br>real numbers
+          R; their properties. Regions of real numbers on a number line. Absolute
+          value of numbers. <br>Numerical systems (using the example of the binary
+          system). Rational and irrational expressions. n-root of <br>numbers. Generalisation
+          of the term ‘power’: power with integer and rational exponent. Operations
+          with <br>powers and roots. <br> <br>Course 2: ‘Equations and Equation Systems.’
+          <br> <br>Learning Outcomes <br>At the end of the course, student can: <br>14
+          <br> <br>1) explain the terms ‘equivalence’, ‘identity’, ‘equation’, ‘s
+          root of an equation’, ‘set of solutions of a <br>system of equations and
+          inequalities’ ; <br>2) explain the identity transformations used to solve
+          equations and system of equations; <br>3) solve linear, quadratic, fractional
+          and simplest r irrational  equations with one unknown and <br>equations
+          transformable to such equations; <br>4) solve simple equations with one
+          absolute value; <br>5) solve systems of equations; and <br>6) solve  word
+          problems by means of equations and systems of equations. <br> <br>Learning
+          Content <br>Equivalence, equation and identity. Equivalent equations and
+          identity transformations. Linear, quadratic, <br>fractional and irrational
+          equations (up to two roots) and equations transformable to such equations.
+          <br>Equation with one absolute value. Systems of equations. Two and three
+          dimensional determinant. Word <br>problems. <br> <br>Course 3: ‘Inequalities.
+          Trigonometry Part 1.’ <br> <br>Learning Outcomes <br>At the end of the course,
+          student can: <br>1) explain the properties of inequalities and the terms
+          ‘inequality’ and ‘set of solutions of a  system of <br>inequalities ; <br>2)
+          explain the identity transformations used to solve inequalities and systems
+          of inequalities; <br>3) solve linear, quadratic and fractional inequalities
+          and simple systems of inequalities; <br>4) use a pocket calculator to find
+          the values of trigonometric functions of an acute angle and by these <br>values  the
+          size of the angle; <br>5) solve a right-angled triangle; <br>6) use trigonometric
+          functions of a supplementary angle; and <br>7) use main trigonometric relations
+          in simplification problems. <br> <br>Learning Content <br>The term ‘inequality’
+          and its properties. Linear inequalities. quadratic inequalities. Interval
+          method. Simpler <br>fractional inequalities. Systems of inequalities. <br>Sine,
+          cosine and tangent of an acute angle. Trigonometric functions of a supplementary
+          angle.  <br>Main trigonometric relations in a right-angled triangle. <br>
+          <br>Course 4: ‘Trigonometry Part 2.’ <br> <br>Learning Outcomes <br>At the
+          end of the course, student can: <br>1) transform an angle given in degrees
+          to radians and vice versa; <br>2) calculate the length of an arc of a circumference
+          as a part of the circumference and the area of a <br>sector of a circle
+          as a part of the circle; <br>3) define the sine, cosine and tangent of any
+          angle and deduce the relations between sine, cosine <br>and tangent; <br>4)
+          deduce and know the exact values of sine, cosine and tangent of  0°, 30°,
+          45°, 60°, 90°, 180°, 270° <br>and 360°, use  reduction formulas and the
+          formulas for negative and bigger than round angles; <br>15 <br> <br>5) use
+          a pocket calculator to find the values of trigonometric functions and use
+          the values to find the <br>size of an angle; <br>6) know the sum and difference
+          formulas of two angles and deduce and know the formulas of sine, <br>cosine
+          and tangent of a double angle; <br>7) transform simple trigonometric expressions;
+          <br>8) prove the sine and cosine law; <br>9) solve a triangle and calculate
+          its area; and <br>10) uset trigonometry to solve problems in different fields
+          of life. <br> <br>Learning Content <br>Generalisation of the term ‘angle’.
+          Degree measure  and radians measure of an angle. Trigonometric <br>functions
+          of any angle. The exact values of sine, cosine and tangent of  0º , 30º
+          , 45º, 60º, 90º, 180º, 270º <br>and 360º. Relations between the trigonometric
+          functions of one and the same angle.  Reduction formulas. <br>Trigonometric
+          functions of negative and bigger than round angles. Trigonometric functions
+          of a sum and a <br>difference of two angles. Trigonometric functions of
+          double angles. Trigonometric expressions. Length of <br>the arc of a circumference
+          and the area of a sector of a circle.  Formulas for area of a triangle.
+          Sine and <br>cosine laws. Solving triangles.  Problems with applied content.
+          <br> <br>Course 5: ‘Vector on Plane. Equation of Line.’ <br> <br>Learning
+          Outcomes <br>At the end of the course, student can: <br>1) explain the terms
+          ‘vector’. ‘unit, zero and opposite vector’. ‘coordinates of a vector’ and
+          ‘angle <br>between two vectors’; <br>2) add, subtract and multiply vectors
+          by a number both geometrically and on the form of coordinates ; <br>3) calculate
+          the scalar product of two vectors and  use vectors in problems with physical
+          content; <br>4) use the perpendicularity and collinearity properties of
+          vectors; <br>5) solve triangles by means of vectors; <br>6) find the coordinates
+          of the centre of a line segment; <br>7) deduce and compile an equation for
+          a straight line (when the line is determined by a point and a <br>vector
+          parallel to the line, a point and a slope, a slope and an initial ordinate
+          and two points) and <br>transform it to a general equation, determine the  mutual
+          position of two lines on a plane and in the <br>case of intersecting lines
+          find the cross  point of the lines and the angle between the lines; and
+          <br>8) compile equations for a hyperbola, parabola and circumference, draw
+          lines determined by the <br>syllabus on the basis of their equations and
+          find the cross points of two lines. <br> <br>Learning Content <br>Distance
+          between two points. The term ‘vector’ and its symbols. Zero vector, unit
+          vector, opposite vector,  <br>bound vector and free vector. Equality of
+          vectors. Coordinates of vectors. Length of vectors. Addition and <br>subtraction
+          of vectors. Multiplication of a vector by a number. <br>Coordinates of the
+          centre  of a line segment. Angle between two vectors. Collinearity of vectors.
+          Scalar <br>product of two vectors, its applications and perpendicularity
+          of vectors. Solving triangles by means of <br>vectors. <br>16 <br> <br>Equation
+          of a line. General equation of a line. Mutual positions of two lines on
+          a Plane Angle between two <br>lines. Equation for a circumference. Parabola
+          <br>c<br>bx<br>ax<br>y<br><br><br><br>2<br> and hyperbola <br>x<br>a<br>y
+          <br>. The term ‘equation <br>of a line’. Intersection of two lines. <br>
+          <br>Course 6: ‘Probability and Statistics.’ <br> <br>Learning Outcomes <br>At
+          the end of the course, student can: <br>1) distinguish between random, certain
+          and impossible events and explain the terms, types and <br>properties of
+          the probability of an event; <br>2) explain the meaning of permutations,
+          combinations and variations and find their number; <br>3) explain the meaning
+          of the product of dependent and independent events and the meaning of the
+          <br>sum of exclusive and non-exclusive events; <br>4) calculate the probability
+          of different events, including ones related to real life; <br>5) explain
+          the nature of distribution of of random variable and the meaning of the
+          numerical <br>characteristics (mean, mode, median and standard deviation)
+          of random variables, describe <br>binomial and normal distributions and
+          use Bernoulli’s Formula to calculate probability; <br>6) explain the terms
+          ‘sample’ and ‘general dataset’ as well as the meaning of reliability of
+          data <br>classification and statistical decision; <br>7) calculate the numerical
+          characteristics of a random variable and draw conclusions regarding the
+          <br>distribution or problem under observation; <br>8) find the average region
+          of confidence  of the general dataset on the basis of a sample; and <br>9)
+          collect data and analyse it by ICT through statistical means. <br> <br>Learning
+          Content <br>Permutations, combinations and variations. Event. Types of events.
+          Classical probability. Relative <br>frequency and statistical probability.
+          Geometric probability. Types of events: dependent and independent, <br>exclusive
+          and non-exclusive. Addition and subtraction of probabilities. Bernoulli’s
+          Formula. Discreet and <br>continuous random variable, binomial distribution,
+          distribution polygon and numerical characteristics (mean, <br>mode, median,
+          dispersion and standard deviation). Problems with applied content. <br>General
+          dataset and sample. Collection of data and data classification. Analysis
+          of statistical data by one <br>criterion. Correlation table. Linear correlation
+          coefficient. Normal distribution (by example). Reliability of <br>statistical
+          decision on the basis of the mean of a region of confidence. Data processing
+          project compiled on <br>a computer (recommended as a cooperation project
+          with another subject). <br> <br>Course 7: ‘Functions. Number Sequences.’
+          <br> <br>Learning Outcomes <br>At the end of the course, student can: <br>1)
+          explain the term and general symbol of a function and the terms related
+          to the investigation of <br>functions; <br>2) describe the properties of
+          graphically presented functions and sketch graphs by hand and by <br>means
+          of computer programmes; <br>3) find the domain of definition, zeros, domains
+          of positivity and negativity of a function presented <br>algebraically and
+          check whether the function is odd or even; <br>17 <br> <br>4) describe the
+          relation between the graph of function y=f(x)and the graphs of functions
+          y = f (x) + a, y <br>= f (x + a), y = f (ax) and y = a f (x); <br>5) explain
+          the terms ‘number’, ‘arithmetic’ and ‘geometric sequence’ and ‘vanishing
+          geometrical <br>sequence’; <br>6) deduce the formulas of the sum of the
+          first n-member of the arithmetic and geometric sequence <br>and the sum
+          of the vanishing geometric sequence and apply them and the formulas of the
+          general <br>member of the arithmetic and geometric sequence to solve problems;
+          <br>7) explain the nature of the limit of a sequence and calculate the limit
+          and know the meaning of <br>numbers π and e; and <br>8) solve problems involving
+          actual data on the basis of arithmetic and geometric sequence and the <br>vanishing
+          geometric sequence. <br> <br>Learning Content <br>Functions <br>b<br>ax<br>y<br><br><br>,
+          <br>c<br>bx<br>ax<br>y<br><br><br><br>2<br> and<br>x<br>a<br>y <br>
+          (review). The term and general symbol of a function. <br>Ways for present
+          functions.  Domain and range of functions. Even and odd functions. Zeros
+          of functions <br>and domains of positivity and negativity of a function.
+          Domains of increase and decrease of a function. <br>Extreme of functions.
+          Power function. Graphs and properties of the functions <br>x<br>y <br>,x<br>y
+          <br>, <br>3<br>x<br>y <br>, <br>1<br><br>x<br>y<br>, <br>x<br>y <br>,
+          <br>3 x<br>y <br>, y = x-2, and y = x<br> . Composite function. Inverse
+          function. Graphs of the <br>functions y = f (x), y = f (x) + a, y = f (x
+          + a), y = f (ax), y = a f (x) on a computer. <br>The term ‘number sequence’,
+          general member of the sequence and types of sequences. Arithmetic <br>sequence
+          and its properties. The formula for the general member of an arithmetic
+          sequence and the <br>formula for the sum of the first n-member. Geometric
+          sequence and its properties. The formula for the <br>general member of a
+          geometric sequence and the formula for the sum of the first n-member. Limit
+          of a <br>number  sequence. Calculation of the limit. Vanishing geometric
+          sequence and its sum. Number e as a <br>limit. Length of a circumference
+          and area of a circle as a limit and number π. Problems with applied <br>content.
+          <br> <br>Course 8: ‘Exponential and logarithm function’ <br> <br>Learning
+          Outcomes <br>At the end of the course, student can: <br>1) explain the nature
+          of increase and decrease by composite percentage; <br>2) solve tasks involving
+          increase and decrease by composite percentage; <br>3) describe the properties
+          of exponential function, including the function<br>x<br>e<br>y <br>; <br>4)
+          explain the term and properties of the logarithm of a numeral and find the
+          logarithm and potentiate <br>elementary expressions, change logarithm base;
+          <br>5) describe the logarithm function and its properties;  <br>6) find
+          the inverse of exponential and logarithmic functions; <br>7) draw the graphs
+          of exponential and logarithm functions and read the properties of the functions
+          <br>from the graph; <br>8) solve elementary exponent and logarithm equations
+          and inequalities;  <br>9) use exponential and logarithm functions to model
+          and examine real life effects. <br> <br>Learning Content <br>18 <br> <br>Increase
+          and decrease by composite percent. Exponential function, its graph and properties.
+          Logarithm of a <br>number. Logarithm of a product, quotient and power. Finding
+          the logarithm and potentiating. <br>Transformation from one basis of a logarithm
+          to another. Logarithm function, its graph and properties. The <br>concept
+          of inverse function, based on the example of exponential and logarithmic
+          function. Exponent and <br>logarithm equations and solving such equations.
+          Problems with applied content on exponential and <br>logarithm functions.
+          Exponent and logarithm inequalities. <br> <br>Course 9: ‘Trigonometric functions.
+          Limit and Derivative of Function.’ <br> <br>Learning Outcomes <br>At the
+          end of the course, student can: <br>1) explain the term of periodicity of
+          a function and find the period of sine, cosine and tangent <br>functions;
+          <br>2) draw graphs of sine, cosine and tangent functions and read the properties
+          of the functions from the <br>graphs; <br>3) find the general and  particular
+          solutions of  simple trigonometric equations in a given area and <br>solve
+          simple trigonometric inequalities; <br>4) explain the terms ‘limit of a
+          function’ and ‘ derivative of a function’ and the physical and geometric
+          <br>meaning of the derivative; <br>5) present composite functions through
+          simpler functions; <br>6) apply the rule of calculating sum, difference,
+          product and quotient of functions, find the first and <br>second derivative
+          of a function. <br> <br>Learning Content <br>Periodicity of a function.
+          The graphs of sine, cosine and tangent functions and their properties. The
+          terms <br>arcsin m, arccos m and arctan m. Simple trigonometric equations.
+          <br>Limit and continuity of a function.  Increment of an argument and  increment
+          of a function. Instantaneous <br>velocity. Slope of the tangent of the function
+          graph. The term ‘derivative of a function’. Geometric meaning <br>of the
+          derivative of a function. Derivative of the sum and difference of functions.
+          Derivative of the product of <br>two functions.  Derivative of the quotient
+          of two functions. Composite function and finding derivatives of <br>composite
+          functions. Derivative of a power function.  Derivative of a composite function.
+          Second  derivative <br>of a function. Derivatives of trigonometric functions.
+          Derivatives of exponential and logarithm functions. <br>Table of derivatives.
+          <br> <br>Course 10: ‘Applications of Derivatives.’ <br> <br>Learning Outcomes
+          <br>At the end of the course, student can: <br>1) compile the equation of
+          the tangent of the graph of a function; <br>2) explain the relation of increasing
+          and decreasing of a function with the sign of the derivative of a <br>function,
+          the term extremum of a function and finding the extremum points; <br>3)
+          find the domains of increase and decrease and extreme points of functions,
+          convexity and <br>concavity intervals of graphs of function and the point
+          of inflexion; <br>4) investigate functions specified in the syllabus thoroughly
+          and sketch a graph based on the <br>properties of the function; <br>5) find
+          the greatest  and smallest value of the function in the given segment; and
+          <br>6) solve extremum problems with applied content (including those with
+          economic content). <br>19 <br> <br> <br>Learning Content <br>Slope of a
+          tangent. Equation of a tangent of a line. Domains of increasing and decreasing  of
+          a function; <br>extremum of a function; necessary and sufficient condition
+          for the existence of extremum. The  greatest <br>and smallest  value of
+          a function in a given line segment. Convexity and concavity intervals of
+          function <br>graphs and the point of inflexion. Investigation of a function
+          by means of derivative. Sketching a graph <br>based on the properties of
+          the function. Problems with applied content (use of derivative of a function).
+          <br>Extremum  problems. <br> <br>Course 11: ‘Integral. Review of Planimetry.’
+          <br> <br>Learning Outcomes <br>At the end of the course, student can: <br>1)
+          explain the term ‘antiderivative’ and find the indefinite integrals of simple
+          functions by means of the <br>table of  main integrals and properties of
+          an integral; <br>2) explain the term ‘ area under graph’ and apply the Newton-Leibniz
+          Formula to calculate the definite <br>integral; <br>3) calculate the area
+          of an  area under graph by means of a definite integral, the area of a part
+          of <br>surface made up of several parts and a part of surface limited by
+          two curves and a volume of an <br>simple solid of revolution; <br>4) explain
+          the properties of geometric figures and their elements, image the corresponding  figures
+          in <br>a drawing, use a ICT tools to investigate the properties of geometric
+          figures and image the <br>corresponding figures in a drawing; <br>5) explain
+          the congruence and similarity properties of triangles, the properties of
+          similar polygons and <br>calculation of the perimeter and area of these
+          figures; <br>6) solve calculation problems in planimetry (also simple proving
+          problems); and <br>7) use geometric figures as models to investigate the
+          objects in the surrounding area. <br> <br>Learning Content <br>The terms
+          ‘antiderivative’ and ‘indefinite integral’. Properties of integrals. Area
+          under graph and its area as <br>a limit. Definite integrals and Newton-Leibniz
+          Formula. Use of integral to calculate the area of a plane <br>figures, the
+          volume of a solid of revolution, a polyhedron and work. <br> <br>Triangle
+          and its interior and exterior angles, bisector of an interior angle of a
+          triangle and its properties. <br>Interior and exterior circumference of
+          a triangle. Median of a triangle and properties of median.  Midline of a
+          <br>triangle and its properties. Metric relations in a right-angled triangle.
+          Polygon and its types. Sum of interior <br>angles of a curved polygon. Similarity
+          of polygons. Relation of perimeters and areas of similar polygons. <br>Interior
+          and exterior circumference of a polygon. Parallelogram, its special types
+          and properties. Trapezoid <br>and its types. Midline of a trapezoid and
+          its properties. Central angle and angle at the circumference. <br>Thales’
+          Theorem. Secant and tangent of a circumference. Chord and tangent polyhedrons.
+          Area of a <br>triangle. Geometrical problems with applied content. <br>
+          <br>Course 12: ‘Line and Plane in Space.’ <br> <br>Learning Outcomes <br>At
+          the end of the course, student can: <br>1) describe a point in space with
+          the coordinates; <br>20 <br> <br>2) explain the term ‘spatial vector’, linear
+          operations  with vectors, collinearity and complanarity of <br>vectors and
+          the scalar product of vectors; <br>3) describe the mutual positions of a
+          line and a plane; <br>4) calculate the distance between two points, the
+          length of a vector and an angle between two <br>vectors; <br>5) determine
+          the position of two given straight lines, a straight line and a plane and
+          two planes and <br>calculate the angle between them in stereometry exercises;
+          and <br>6) use vectors to solve problems with geometric and physical content.
+          <br> <br>Learning Content <br>Position propositions in spatial geometry:
+          an angle between two lines, a line and a  plane and two planes, <br>perpendicularity
+          and parallelism of the lines and planes, the theorem of three perpendiculars
+          and the area <br>of the projection of a polygon. <br>Cartesian coordinates
+          of a point in space. Coordinates of a point in space and the position vector
+          of a point. <br>Coordinates of a vector in  space and length of a vector.
+          Linear operations with vectors. Collinearity and <br>coplanarity of vectors,
+          expressing a vector  by any three non-complanar vectors. Scalar product
+          of two <br>vectors. Angle between two vectors. <br>Equations for a line
+          in  space and the equation for a plane. Investigation of the  mutual positions
+          of the lines <br>and planes given by equations in space, cross point of
+          a line ´and a plane and finding an angle between the <br>lines given by
+          equations. Problems with applied content. <br> <br>Course 13: ‘Stereometry.’
+          <br> <br>Learning Outcomes <br>At the end of the course, student can: <br>1)
+          know the types of polyhedrons and  solids of revolution and the formulas
+          for calculating their areas; <br>2) image a prism, a pyramid, a cylinder,
+          a cone and a sphere on a drawing and their  simple cross <br>sections with
+          a  plane; <br>3) calculate the area and volume of solids and the area of
+          the cross section of the solids and a plane; <br>and <br>4) use polyhedrons
+          and solids of revolution as models to investigate  the objects in the surrounding
+          <br>area. <br> <br>Learning Content <br>Prism and pyramid, their area and
+          volume and regular polyhedrons. Solids of revolution, a cylinder, a cone
+          <br>and a sphere, their area and volume and a segment, layer, zone and sector
+          of a sphere. Deduction of a <br>formula for calculating the volume of a
+          cylinder, a cone or a sphere. Problems for polyhedrons and solids of <br>revolution.
+          Cross sections of polyhedrons and solids of revolution with a plane. Problems
+          with applied <br>content. <br> <br>Course 14: ‘Applications of Mathematics
+          and Exploration of Actual Processes.’ <br> <br>Learning Outcomes <br>At
+          the end of the course, student can: <br>1) explain the general nature of
+          mathematical modelling and its procedures; <br>2) know the methods and functions
+          necessary to compile simple models; <br>3) use more important models and
+          methods of natural and economic sciences; <br>21 <br> <br>4) solve word
+          problems by means of equations; <br>5) know the regularities and relations
+          between various fields of life in the surrounding world; <br>6) compile
+          mathematical models of easy-to-model real effects and use them to study
+          reality; and <br>7) use ICT tools for solving problems.  <br> <br>Learning
+          Content <br>Meaning of mathematical models, stages of modelling an effect
+          and assessment of the quality and <br>practicability of models. Solving
+          word problems (including percentage problems) by means of equations as <br>in
+          compiling and solving mathematical models of the problems. <br>Models in
+          natural and economic sciences, technology and other fields (such as the
+          relations between <br>physical variables, models of organic growth in biology,
+          demand and supply functions and marginal <br>functions in economic science
+          and calculations of material consumption in technology etc.) which use <br>linear,
+          quadratic and exponent functions. The approach of the course is based on
+          the use of calculation <br>tools.'
+        text_type: text
+      id: 38
+      label: 2.2.3. Learning Outcomes in Upper Secondary School
+      text_type: section_title
+    id: 33
+    label: 2.2. Extensive Mathematics
+    text_type: section_title
+  id: 22
+  label: 2. Syllabuses
+  text_type: section_title
+- annotations: 3. Syllabuses of optional courses
+  children:
+  - annotations: '3.1. Optional Course: ‘Logic.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 42
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) have achieved an overview of the historical
+        development of logic and of its fields of use; <br>2) define terms correctly
+        and are able to correct inaccurate definitions; <br>3) realise the necessity
+        of  proving and are able to use appropriate mathematical tools; <br>4) determine
+        truth values (knowing the truth values of component statements) on the basis
+        of the truth <br>values of component statements; and <br>5) explain the formation
+        of paradoxes. <br> <br>Short Description of Course <br>The course includes
+        terms known to pupils since basic school (definition, theorem, assumption
+        and <br>assertion). However, some new terms are added (types of theorems,
+        quantifiers, propositions and <br>paradoxes). Special attention is given to
+        presenting a mathematical text by means of quantifiers and to <br>determining
+        the truth value of simple proposition. Pupils analyse well-known paradoxes
+        and examine the <br>formation process of paradoxes. <br> <br>Learning Outcomes
+        <br>At the end of the course, student can: <br>1) determine the content and
+        extent of the term and classify terms; <br>2) define the terms and find inaccuracies
+        and mistakes in given definitions; <br>3) separate the assumption and assertion
+        of a theorem and compile converse, inverse and <br>contrapositive theorems
+        on the basis of the given theorem and  prove the theorem; <br>4) use quantifiers
+        to write a mathematical text; <br>5) perform operations with propositions
+        and determine the truth value of a proposition; and <br>6) explain the formation
+        of paradoxes. <br> <br>Learning Content <br>22 <br> <br>What does logic teach?
+        Historical background. The term. Definition and classification of a term.
+        Decision. <br>Propositions in logic. Truth value of a proposition. Operations
+        with propositions. Negation. Disjunction and <br>conjunction. Implication.
+        Equivalence. Compound proposition and finding their truth value by means of
+        the <br>truth table. Laws of logic. Law of double negation. Law of contradiction.
+        Law of excluded middle. <br>Consequence relations. Proving. Axiom. Theorem.
+        Converse of a theorem. Inverse of a theorem. <br>Contrapositive of a theorem.
+        Proof by contradiction.. Necessary and sufficient conditions. Paradoxes.'
+      text_type: text
+    id: 41
+    label: '3.1. Optional Course: ‘Logic.’'
+    text_type: section_title
+  - annotations: '3.2. Optional Course: ‘Elements of Economical Mathematics.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 44
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) become familiar with the fundamental mathematical
+        models describing the operation of the <br>economic world around them and
+        the methods of their implementation; and <br>2) are able to use mathematics
+        to make reasonable decisions in their economic activities. <br> <br>Description
+        of Course <br>The course consists of three basic fields: <br>1) use of percentage
+        calculation to solve economic problems (indexes, taxation, price formation
+        and <br>calculations involving different currencies); <br>2) modelling of
+        economic processes by means of functions (demand, offer, expenses, income,
+        net <br>income, advertising income and ordering of goods); and <br>3) basics
+        of financial mathematics (interest, fines and loans). <br> <br>Learning Outcomes
+        <br>At the end of the course, student can: <br>1) explain the nature of price
+        indexes and their calculation as an application of percentage calculation;
+        <br>2) use percentage calculation to calculate and interpret price indexes,
+        including consumer price <br>indexes; <br>3) explain the meaning of primary
+        tax types (income tax, social tax,  sale tax and excise tax etc.) and <br>their
+        calculation processes as the applications of percentage calculation; <br>4)
+        use percentage calculation to explain and find income expenses and the development
+        of the price <br>of goods (simpler cases); <br>5) explain the basic terms
+        related to money and currency (exchange rate, conversion, inflation and <br>real
+        income) and are able to find and calculate them in simpler cases; <br>6) explain
+        the use of functions in order to model demand, offer, market balance, expenses,
+        income, <br>net income and advertising income and are able to compile and
+        implement these models in simpler <br>cases (primarily linear models); and
+        <br>7) explain the terms ‘simple’ and ‘compound interest’ and are able to  use
+        them in order to manage <br>situations involving deposits and loans (paying
+        bills, fines, deposit profitability, expenses and write-<br>off of loans using
+        the example of study and housing loans). <br> <br>Learning Content <br>Basic
+        problems for percentage calculation. Indexes. Consumer price index. Primary
+        taxes using the <br>example of income, social, value added and excise taxes.
+        Income expenses. Development of the price of <br>goods. Exchange rate and
+        conversion. Calculation of inflation by means of the consumer price index.
+        Real <br>23 <br> <br>income. Demand and offer functions. Market balance. Expense,
+        revenue and net revenue functions. <br>Advertising revenue function. Simple
+        and compound interest. Bills and fines. Deposit profitability. Expenses <br>of
+        loans using the example of study and housing loans.'
+      text_type: text
+    id: 43
+    label: '3.2. Optional Course: ‘Elements of Economical Mathematics.’'
+    text_type: section_title
+  - annotations: '3.3. Optional Course: ‘Elements of Number Theory Part 1.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 46
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) achieve a better concept of integer presentation
+        in the decimal system as well as the relations <br>between numbers, main results
+        and proving methods relevant in contemporary computer science <br>and other
+        fields of life; <br>2) understand and are able to use basic proving methods
+        to prove main results and solve problems; <br>and <br>3) develop creative
+        and flexible mathematical thinking. <br> <br>Description of Course <br>The
+        course consists of four basic fields: <br>1) presentation of an integer in
+        the decimal system; <br>2) divisibility of integers and remainder arithmetic
+        ; <br>3) prime and composite numbers and the fundamental theorem of arithmetic;
+        and <br>4) classes of numbers with special properties. <br> <br>Learning Outcomes
+        <br>At the end of the course, student can: <br>1) use for solving problems
+        the appropriate presentation of an integer in the decimal system as the <br>sum
+        of   multiplies of power of ten; <br>2) define the term ‘integer divisibility’
+        and  prove the basic properties of divisibility relation; <br>3) use the basic
+        properties of divisibility to deduce divisibility properties and solve classical
+        <br>(proving)problems; <br>4) define the term of division with a remainder
+        and prove the main statements of remainder arithmetic; <br>5) use remainder
+        arithmetic to solve classical (proving)problems; <br>6) define the terms of
+        a prime and a compound number and the  greatest common divisor and the <br>least
+        common multiple of two integers; <br>7) formulate (and prove if possible)
+        the fundamental theorem of arithmetic and use it to solve classical <br>(proving)problems;
+        <br>8) explain the algorithms used to find the greatest common divisor and
+        the  least common multiple of <br>the integers and use them to solve (proving)problems;
+        and <br>9) present an overview of the origin and properties of numbers from
+        the so-called ‘interesting’ type of <br>numbers (such as triangular numbers,
+        amicable numbers etc.). <br> <br> <br>Learning Content <br>Presentation of
+        integers in decimal system: presentation of an integer as the sum of multiplies
+        of power of <br>ten. The last numbers of an integer and the decimal presentation
+        of its powers. <br>24 <br> <br>Divisibility of integers and remainder arithmetic.
+        Divisibility. Properties of the divisibility relation. Division <br>with a
+        remainder. Divisibility properties. <br>Multiples and divisors of numbers.
+        Prime and composite numbers. Greatest common divisor and least <br>common
+        multiple. Fundamental theorem of arithmetic. Interesting numbers. Polygonal,
+        ideal and amicable <br>numbers etc.'
+      text_type: text
+    id: 45
+    label: '3.3. Optional Course: ‘Elements of Number Theory Part 1.’'
+    text_type: section_title
+  - annotations: '3.4. Optional Course: ‘Elements of Number Theory Part 2.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 48
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) achieve a better understanding of the different
+        possibilities and principles of the composition of the <br>number systems
+        currently in use and the basic terms and results of the number theory used
+        in <br>computer science; <br>2) understand and are able to use various proving
+        methods to prove results and solve proving  <br>problems; and <br>3) develop
+        creative and flexible mathematical thinking. <br>Description of Course <br>The
+        course consists of five basic fields: <br>1) principle of mathematical induction;
+        <br>2) congruencies; <br>3) number systems; <br>4) canonical presentation
+        of rational numbers; and <br>5) Euclidean Algorithm. <br> <br>Learning Outcomes
+        <br>At the end of the course, student can: <br>1) explain the nature of mathematical
+        induction and its implementation possibilities and use the <br>principle of
+        mathematical induction to solve (proving) problems of varying difficulty;
+        <br>2) define the remainder equality or the congruence of integers by  modulusand
+        prove the main <br>properties of congruences; <br>3) use congruences to solve
+        (proving)problems; <br>4) explain the different principles of the construction
+        of number systems and give historical examples <br>about different systems;
+        <br>5) transform the numbers of the decimal system into the numbers of another
+        number system and vice <br>versa and perform operations with the numbers from
+        a system with a base different from ten; <br>6) present a natural number in
+        a canonical  form and find the number of its positive divisors and the <br>sum
+        of its divisors; <br>7) know the presentations of a rational number as an
+        irreducible fraction and in a canonical form and <br>use them to solve  problems;
+        <br>8) use the Euclidean Algorithm to find the greatest common multiple and
+        least  rational number as a <br>continuous fraction; and <br>9) solve linear
+        Diophantine equations with two unknowns. <br> <br> <br>Learning Content <br>25
+        <br> <br>Principle of mathematical induction: the principle and its use in
+        solving problems. <br>Congruences: congruence of integers by means of a modulus
+        Main properties of congruences. Use of <br>congruences in (proving)  problems
+        in number theory. <br>Number systems: positional and non-positional number
+        systems. Examples of number systems with <br>different bases and their construction
+        principles. <br>Canonical presentation: canonical presentation of a positive
+        integer and its applications. Presentation of a <br>rational number as an
+        irreducible fraction and in a canonical form. <br>Euclidean Algorithm: finding
+        the Greatest common divisor. Solving of linear Diophantine equations with
+        two <br>unknowns. Presentation of a rational number as a continuous fraction.'
+      text_type: text
+    id: 47
+    label: '3.4. Optional Course: ‘Elements of Number Theory Part 2.’'
+    text_type: section_title
+  - annotations: '3.5. Optional Course: ‘Elements of  Discrete  Mathematics, Part
+      1.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 50
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) achieve an overview of the problems of the
+        quickly developing and important field of contemporary <br>mathematics, discreet
+        mathematics, and their primary solving methods (including Dirichlet’s <br>Principle
+        and invariants); <br>2) are able to use argumentation and  proving methods
+        peculiar to discreet mathematics to solve <br>simple (proving) problems and
+        formulate solutions correctly r; and <br>3) develop creative and flexible
+        mathematical thinking. <br> <br>Description of Course <br>The course consists
+        of three basic fields: <br>1) logic problems; <br>2) Dirichlet’s Principle;
+        and <br>3) method of invariants. <br> <br>Learning Outcomes <br>At the end
+        of the course, student can: <br>1) solve simple, typical logic problems determined
+        by the syllabus by means of appropriate tables, <br>schemes and drawings where
+        necessary; <br>2) formulate Dirichlet’s Principle and  prove it by contradiction;
+        <br>3) use Dirichlet’s Principle and its generalisation to solve word and
+        simple (proving) problems  <br>connected with numbers; <br>4) formulate the
+        analogue of Dirichlet’s Principle in geometry and use it to solve simple planimetry
+        <br>problems; <br>5)  use Dirichlet’s Principle to solve simpler (proving)  problems
+        by colouring the parts of a plane; <br>6) explain the nature of the method
+        of invariants and are able to name invariants related to integers <br>(such
+        as parity, sums of numbers, products and remainders); and <br>7) solve simple
+        problems connected with games and tables of numbers by means of choosing the
+        <br>appropriate invariant. <br> <br>Learning Content <br>Logic problems (finding
+        the correspondence between elements of a set): “who’s who” type  problems,
+        <br>problems to determine those telling the truth and those lying and problems
+        connected with weighing and <br>pouring. <br>26 <br> <br>Dirichlet’s Principle:
+        the nature of the principle and its proving by contradiction. Generalisation
+        of the <br>principle. Application of the principle to solve word problems
+        and problems  of number theory. Analogue of <br>Dirichlet’s Principle in geometry
+        and its use to solve simple geometry and colouring  problems. <br>Invariants:
+        the use of invariants related to parity and other integers in simple problems
+        connected with <br>games and tables of numbers.'
+      text_type: text
+    id: 49
+    label: '3.5. Optional Course: ‘Elements of  Discrete  Mathematics, Part 1.’'
+    text_type: section_title
+  - annotations: '3.6. Optional Course: ‘Elements of Discrete Mathematics Part 2.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 52
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) achieve an overview of the simpler problems
+        of the two fields of the quickly developing and <br>important discrete mathematics,
+        combinatorics and graph theory, and their solving methods; <br>2) are able
+        to use argumentation and  proving methods peculiar to discrete mathematics
+        to solve <br>(proving)  problems and formulate solutions correctly ; and <br>3)
+        develop creative and flexible mathematical thinking. <br> <br>Description
+        of Course <br>The course consists of three basic fields: <br>1) mathematical
+        induction; <br>2) elements of combinatorics; and <br>3) introduction to graph
+        theory. <br> <br>Learning Outcomes <br>At the end of the course, student can:
+        <br>1) formulate the classical version of the principle of mathematical induction
+        (by step 1) and explain the <br>importance of a basis and a step of induction;
+        <br>2) use the principle of mathematical induction to solve (proving) problems
+        of various difficulty; <br>3) formulate the main rules of combinatorics (addition
+        and multiplication rule) and explain their nature <br>and use the main rule
+        appropriate to the context of the (proving)  problems to calculate the options
+        <br>of the object; <br>4) define unions without repetitions  (permutations,
+        variations and combinations) and deduce the <br>formulas to find their number
+        and use them to solve (proving) problems on the basis of the context <br>of
+        the problem; <br>5) explain the term ‘unions with repetition’ (permutations,
+        variations and combinations) and use their <br>calculation formulas to solve
+        simpler problems; <br>6) know the term ‘graph’ and the basic related terms
+        and methods (edge, vertex, degree of vertex and <br>counting of edges) and
+        solve problems with relevant content; <br>7) formulate and prove a theorem
+        on the number of odd-numbered vertexes of a graph and use it to <br>solve
+        simple  problems; <br>8) know types of graphs (Euler graph, coherent graph,
+        tree graph and oriented graph) and solve <br>simple  problems; <br>9) formulate
+        the necessary and sufficient condition for a graph to be a Euler graph and
+        solve simple  <br>problems by means of this condition; and <br>10) describe
+        an historical problem related to the topics of the course or introduce persons
+        connected  <br>with addition  terms and  proving of results. <br> <br>27 <br>
+        <br>Learning Content <br>Principle of mathematical induction: the principle,
+        basis and step of induction. Solving problems by means <br>of the principle
+        of mathematical induction. <br>Elements of combinaorics: addition and multiplication
+        rule. permutations without repetitions, variations and <br>combinations and
+        their properties.  Use of addition and multiplication rules to solve problems.
+        Permutations <br>with repetitions, variations and combinations. <br>Introduction
+        to graph theory: a vertex and an edge of a graph. Counting edges, degree of
+        a vertex. <br>Theorem: any graph has an even number of odd degree vertexes.
+        Euler graph. Coherent graph. <br>Coherence components of a non-coherent graph.
+        The necessary and sufficient condition for a graph to be <br>a Euler graph.
+        Tree graph. Equivalent conditions for a graph to be a tree graph. Oriented
+        graph.'
+      text_type: text
+    id: 51
+    label: '3.6. Optional Course: ‘Elements of Discrete Mathematics Part 2.’'
+    text_type: section_title
+  - annotations: '3.7. Optional Course: ‘Planimetry Part 1: Geometry of Polygons and
+      Circles.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 54
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) <br>know basic terms and  main results of
+        triangles and circles geometry and are able to use the <br>main methods to
+        prove them (parallelism, congruence, similarity and a method of angles at
+        the <br>circumference); <br>2) <br>are able to use the methods learnt to solve
+        typical problems involving classical synthetic <br>geometry and produce correct
+        drawings; and <br>3) <br>develop creative and flexible mathematical thinking.
+        <br> <br>Description of Course <br>The course consists of three basic fields:
+        <br>1) <br>parallel lines; <br>2) <br>congruence and similarity of triangles;
+        and <br>3) <br>angles and line segments related to circumference and intersection
+        and tangency of <br>circumferences. <br> <br>Learning Outcomes <br>At the
+        end of the course, student can: <br>1) <br>define the term ‘parallelism of
+        lines’, formulate properties of parallelism and prove them; <br>2) <br>use
+        properties of parallelism and the ray’s theorem to solve typical and (proving)  problems;
+        <br>3) <br>define the terms ‘congruence of triangles’ and ‘similarity of triangles’,
+        formulate the properties of <br>congruence and similarity and prove the properties;
+        <br>4) <br>use the methods of congruence and similarity to solve (proving)
+        problems; <br>5) <br>formulate and prove the theorem of a height drawn from
+        the vertex of the right angle of a right-<br>angled triangle and its conclusions
+        (Pythagorean Theorem, Euclid’s Theorem and the theorem of <br>height) and
+        the converse theorem of Pythagoras’ Theorem; <br>6) <br>explain the difference
+        between the terms ‘congruence of triangles’ and ‘equiareality of triangles’
+        <br>and solve  problems with relevant content; <br>7) <br>know the inequalities
+        of a triangle and use them to solve (proving) problems; <br>8) <br> know the
+        main results involving the size of an angle at the circumference and the angle
+        between <br>a chord and tangent of a circumference and use them to solve (proving)problems;
+        <br>9) <br>formulate and  prove the theorems of two chords, a secant, a tangent
+        and a secant and a tangent <br>of a circumference and use the results to solve
+        (proving)problems; and <br>28 <br> <br>10) <br>solve simple (proving) problems
+        involving the intersection and tangency of circumferences. <br> <br>Learning
+        Content <br>Parallel lines. Parallelism of lines. Parallelism properties of
+        lines. Ray’s theorem. Historical overview of <br>problems related to parallelism
+        of lines (the problem of the ‘postulate of parallels’). <br>Triangle. Definitions
+        and properties of congruence and similarity of triangles. Theorem of a height
+        drawn <br>from the vertex of the right angle of a right-angled triangle and
+        its conclusions (Pythagorean Theorem, <br>Euclid’s Theorem and the theorem
+        of height). Converse theorem of Pythagoras’ Theorem. Equiareality of <br>triangles.
+        Inequality of a triangle. <br>Circle and circumference. Central angel and
+        angle at the circumference. Size of an angle at the <br>circumference. Thales’
+        Theorem. Angle between a chord and a secant. Theorems of two chords, two  <br>secant
+        and a secant and a tangent of a circumference. Equality of tangent segments
+        drawn from a given <br>point to a circumference. Potency of a point a circumference.
+        Interior (exterior) tangency of two <br>circumferences.'
+      text_type: text
+    id: 53
+    label: '3.7. Optional Course: ‘Planimetry Part 1: Geometry of Polygons and Circles.’'
+    text_type: section_title
+  - annotations: '3.8. Optional Course: ‘Planimetry Part 2: Geometry of Polygons and
+      Circles.’'
+    children:
+    - annotations: ''
+      children: []
+      id: 56
+      label: 'Learning and Educational Objectives <br>The objective of the optional
+        course is that students: <br>1) know the basic terms of geometry, main results
+        of polygons and circles and are able to use main <br>methods to prove them
+        (parallelism, congruence, similarity, a method of angles at the <br>circumference
+        and a method of additional constructions); <br>2) are able to creatively use
+        the methods learnt to solve (proving) problems  of synthetic geometry <br>and
+        perform simple drawings correctly by means of compass and a ruler and/or a
+        ICT tools using a <br>programme of dynamic geometry; and <br>3) develop creative
+        and flexible mathematical thinking. <br> <br>Description of Course <br>The
+        course consists of four basic fields: <br>1) classification and main properties
+        of polygons (quadrangles); <br>2)  cyclic quadrilateral; <br>3) line segments
+        (midlines, medians, bisectors, heights and mediators) and circumferences (inscribed
+        <br>and circumscribed circle) related to a triangle; and <br>4) construction
+        problems. <br> <br>Learning Outcomes <br>At the end of the course, student
+        can: <br>1) deduce formulas to find the sum of the interior and exterior angles
+        of a polygon and the number of <br>diagonals and use them to solve (proving)
+        problems ; <br>2) define the terms ‘congruence of polygons’ and ‘similarity
+        of polygons’ and use the methods of <br>congruence and similarity to solve
+        (proving)  problems; <br>3) know the definitions and properties of quadrangles
+        (square, rectangle, rhombus, parallelogram and <br>trapezoid) and use them
+        to solve (proving)problems; <br>29 <br> <br>4) formulate and prove the necessary
+        and sufficient conditions for a quadrangle to be a cyclic <br>quadrilateral
+        and use the method of  cyclic quadrilateral to solve (proving) problems and
+        to justify <br>the position of the four points on a circumference; <br>5)
+        define the terms of the segments (midline, median, bisector, height and mediator)
+        related to a <br>triangle and prove their main properties and use the results
+        to solve (proving)tasks; <br>6) use different methods to prove that the three
+        medians (bisector, mediator and height) of any <br>triangle intersect at a
+        point; <br>7) know  cross point of given segments  where locate centers  of
+        the interior and exterior <br>circumference of a triangle and use this to
+        solve (proving)problems; and <br>8) achieve a certain skills  for solving
+        basic construction problems by means of compass and a ruler. <br> <br>Learning
+        Content <br> <br>Polygons: convex and non-convex  polygons and regular polygons.
+        Sum of interior and exterior angles of a <br>polygon. Diagonals of polygons.
+        Congruence and similarity of polygons. Necessary and sufficient <br>conditions
+        for a quadrangle to be a square (rectangle, rhombus, parallelogram or trapezoid).
+        <br>Cyclic quadrilateral. Necessary and sufficient conditions for a quadrangle
+        to be an inscribed quadrangle: <br>angles at the circumference  resting on
+        the same arc, angles at the circumference positioned opposite to <br>each
+        other, product of the lengths of the segments of diagonals (the property of
+        intersecting chords of a <br>circumference) and Ptolemy’s Theorem. Four points
+        positioned on a circumference. <br>Segments and circumferences in a triangle:
+        midline of a triangle and the properties of the midlines and <br>triangles
+        formed from these segments. Necessary and sufficient condition for a point
+        to be  located on a <br>bisector of a given angle (on the mediator of a given
+        segment). Theorems on intersection of the medians of <br>a triangle (bisectors,
+        heights and mediators) at a given point. Interior and exterior circumference
+        of a <br>triangle. <br>Construction  problems. Basic construction by means
+        of compass and a ruler (bisector of a given angle, <br>mediator of a segment,
+        construction of a perpendicular or a parallel line on a line from a given
+        point, <br>construction of an interior and exterior circumference of a triangle,
+        construction of a tangent of a <br>circumference, division of a segment in
+        a given ratio and construction of polygons). Historical overview of <br>the
+        possibility of performing classical construction problems (quadrature of a
+        circle, duplication of a cube <br>and trisection of an angle).'
+      text_type: text
+    id: 55
+    label: '3.8. Optional Course: ‘Planimetry Part 2: Geometry of Polygons and Circles.’'
+    text_type: section_title
+  id: 40
+  label: 3. Syllabuses of optional courses
+  text_type: section_title
+id: 0
+label: 'Subject field: mathematics'

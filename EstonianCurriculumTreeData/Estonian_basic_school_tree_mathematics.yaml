@@ -1,0 +1,666 @@
+annotations: 'Subject field: mathematics'
+children:
+- annotations: 1. General Principles
+  children:
+  - annotations: 1.1. Mathematics Competence
+    children:
+    - annotations: ''
+      children: []
+      id: 3
+      label: 'The aim of mathematics education is to develop in basic school students
+        mathematics competence, which <br>is adequate for their age; it means the
+        ability to use the language, symbols and methods characteristic of <br>mathematical
+        applications to solve various problems in mathematics as well as in other
+        school subjects and <br>walks of life, to understand social, cultural and
+        personal meaning of mathematics; the skill to formulate <br>problems, identify
+        and implement suitable solution strategies, analyse solution ideas and test
+        the accuracy <br>of results; the skill of logical reasoning, justification
+        and proof by using and understanding different <br>presentation methods.   <br>It
+        is expected that, through mathematics education, basic school graduates will:
+        <br>1) understand the value of and enjoy mathematics; <br>2) have knowledge
+        of mathematical concepts and relations; <br>3) be capable of logical reasoning,
+        justification and proof; <br>4) use solution strategies for standard problems
+        and be capable of solving mathematical problems; <br>5) be capable of presenting
+        information in the form of text, graphs, tables, diagrams and formulas; <br>6)
+        be able to use information and communication technology tools for learning;
+        <br>7) be capable of analysis and reaching conclusions through reasoning based
+        on available facts; <br>8) apply mathematical knowledge in other school subjects
+        and in daily life; <br>9) have knowledge of the specialties and professions
+        in the subject field and assess their abilities and <br>interests in the context
+        of potentially continuing their studies in mathematics-related fields.'
+      text_type: text
+    id: 2
+    label: 1.1. Mathematics Competence
+    text_type: section_title
+  - annotations: 1.2. Subjects and Volume of the Subject Field
+    children:
+    - annotations: ''
+      children: []
+      id: 5
+      label: 'The subject field includes subject mathematics taught from Forms 1 to
+        9. <br>The number of weekly mathematics lessons per stage of study is divided
+        as follows: <br>1st stage of study – 10 lessons per week <br>2nd stage of
+        study – 13 lessons per week <br>3rd stage of study – 13 lessons per week <br>
+        <br>The distribution of weekly hours of subjects within stages of study is
+        specified in the school curriculum <br>considering that the expected learning
+        outcomes and learning and educational objectives would be <br>2 <br> <br>achieved.
+        The subject teacher selects the contents of education for presentation in
+        consideration of <br>achievability of the learning outcomes, subject field
+        competences and general competences. <br> <br>1.3 Description of the Subject
+        Field <br> <br>Mathematics involves working with models, describing relations
+        and developing methods. Basic school <br>mathematics education prepares students
+        for understanding and describing logical, quantitative and spatial <br>relations.
+        The mathematics course provides skills of written, calculator and mental arithmetic,
+        presents the <br>properties of planar and spatial objects, and teaches how
+        to create mathematical descriptions of relations. <br>Students acquire necessary
+        basic algebra skills. They obtain a preliminary idea of the surrounding world
+        of <br>random events and the techniques used to describe it. The methods and
+        language learned in the basic <br>school mathematics course can be used by
+        students in other subject fields. <br>The design of education is focused on
+        ensuring that students understand the contents of learning and on <br>developing
+        logical and creative thinking in students. The importance of accuracy, consistency
+        and students’ <br>active thought processes is emphasised throughout the study
+        period. By solving mathematical problems, <br>students can experience enjoyment
+        of success and discovery. Information and communication technology <br>(ICT)
+        resources are utilised in the educational process.'
+      text_type: text
+    id: 4
+    label: 1.2. Subjects and Volume of the Subject Field
+    text_type: section_title
+  - annotations: 1.4. Options of Forming General Competencies
+    children:
+    - annotations: ''
+      children: []
+      id: 7
+      label: 'Studying mathematics develops not only mathematics competences but also
+        all other general <br>competences. <br>Cultural and value competence. Mathematics
+        is a science that unifies different cultures. Thus, pupils can <br>learn about
+        the works of mathematicians from different countries and eras. Pupils are
+        guided to recognise <br>the elegance of logical trains of thought as well
+        as the beauty of geometric objects under observation and <br>their relation
+        with architecture and nature. Studying mathematics helps to develop such character
+        traits as <br>determination, persistence, perseverance, accuracy and attentiveness
+        while also teaching to follow <br>discipline. Solving of mathematical problems
+        creates interest in the surrounding world and improves <br>understanding of
+        the laws of nature. Pupils will learn to notice the connection of mathematics
+        to daily life <br>and understand that basic mathematical knowledge improves
+        comprehension of other science disciplines. <br>Social and citizenship competence.
+        Responsibility towards society and fellow citizens is raised by <br>solving
+        tasks with relevant content. Paired and group work tasks enable students to
+        develop their <br>cooperation and mutual assistance skills and to increase
+        tolerance towards students with different <br>mathematical abilities. <br>Self-management
+        competence. In mathematics independent work has an important role to play.
+        By <br>means of independent task solving, pupils can assess and develop their
+        mathematical abilities. <br>Learning to learn competence. When studying mathematics,
+        it is essential to perceive the learning <br>material in depth and understand
+        everything. Solving problem tasks develops analytical, rational method <br>finding
+        and critical outcome assessment skills. Generalisation and analogy-using skills
+        are very important: <br>skills in carrying acquired knowledge over to suitable
+        contexts. Pupils are guided towards the <br>understanding that complex tasks
+        can only be solved by using independent thought. <br>3 <br> <br>Communication
+        competence. Mathematics develops pupils’ ability to express their ideas clearly,
+        briefly <br>and precisely. This is primarily the case when formulating hypotheses
+        and theorems and also when <br>formulating the task solution. Solving of text
+        problems improves the skill of understanding a text: to <br>distinguish between
+        important and unimportant parts and seek out relevant information for a given
+        quantity. <br>Mathematics has an important role in developing preparedness
+        for understanding, associating and <br>communicating information presented
+        in different ways (text, graphs, tables, diagrams and formulas). <br>Mathematics
+        and natural sciences and technology competence. Mathematics helps to develop
+        skills <br>that are required for evidence-based decision-making. It provides
+        information on methods and techniques <br>of data processing, measurement,
+        comparison, classification and systematisation.  <br>Entrepreneurial competence.
+        Entrepreneurial competence is developed by solving problems with real life
+        <br>data. Identification of different solution paths improves the flexibility
+        of thought and the ability to generate <br>ideas.'
+      text_type: text
+    id: 6
+    label: 1.4. Options of Forming General Competencies
+    text_type: section_title
+  - annotations: 1.5. Options for Integrating Mathematics with Other Subject Fields
+    children:
+    - annotations: ''
+      children: []
+      id: 9
+      label: 'Mathematics is integrated with other subject fields in two principal
+        ways. Through the use of mathematical <br>methods in other subject fields,
+        students develop an understanding of mathematics as a basic science, with
+        <br>its universal language and methods, that supports other subject fields.
+        The use of problems associated with <br>other subject fields and real life
+        provides students with an idea of application opportunities of mathematics.  <br>Language
+        and literature, including foreign languages. Education develops the skill
+        of clear and relevant <br>oral and written self-expression, creation, interpretation
+        and presentation of texts, including tables, graphs, <br>etc. Students are
+        guided to use appropriate linguistic resources and mathematical vocabulary
+        while <br>observing correct grammar. The solving of text problems helps to
+        develop functional reading skills, <br>including the ability to understand
+        visual information. Attention is paid to the correct writing of numerals,
+        as <br>well as accurate formatting of text, graphs, tables and other information.
+        The meaning of mathematical <br>concepts of foreign origin is explained and
+        foreign language skills can be developed through the search <br>and use of
+        additional resources. <br>Natural sciences. A mathematics teacher can engage
+        in close cooperation with teachers of natural <br>sciences. The productivity
+        of such cooperation depends, on the one hand, on the mathematics teacher’s
+        <br>knowledge of the content of other subject fields and, on the other hand,
+        on the abilities and skills of science <br>teachers to use mathematics and
+        its language in a reasonable and accurate manner in their subject field. <br>Inquiry
+        learning in science subjects requires students to have the ability to analyse
+        the data collected <br>through observations and experiments, and to present
+        the results of observations and experiments as <br>graphs, diagrams and tables.  <br>Social
+        subjects. The solving of problems helps to develop the skill of understanding
+        and selecting <br>information: to differentiate between important and unimportant
+        parts and to identify (in a text, on a drawing, <br>etc.) data required for
+        solving a problem. The formatting of solutions to problems and formulation
+        of <br>hypotheses and theorems helps to develop the skill of clear, concise
+        and accurate expression of thoughts. <br>Information on mathematical concepts
+        can be combined with the provision of information on important <br>social
+        topics, such as population structure and the shares of different social groups,
+        individual and state <br>budget, wages and taxes, interest, interest on arrears,
+        the risks associated with rapid loans, the use of pro <br>mille and percentage
+        point units in daily life, etc. Data from the social sphere is used in the
+        context of <br>4 <br> <br>mathematical topics associated with statistics.
+        Students learn how to use different information <br>environments (for instance,
+        assess the accuracy of media-published diagrams based on what they have <br>learned)
+        and gain an overview of the current taxation system. Logical reasoning and
+        factual thinking enable <br>people to make right decisions in life. Practical
+        assignments, group work tasks and participation in projects <br>improve cooperation,
+        mutual support and respect for each other. <br>Art subjects. Art and geometry
+        (technical drawing, measurement) are closely interconnected. The <br>development
+        of art competence can be supported with resources that demonstrate geometry
+        applications <br>in art fields, such as architecture, interior design, ornamental
+        art, design, etc. Geometric concepts can be <br>used as a basis for analysing
+        objects in art education. Classification of important characteristics of shapes
+        <br>and use of symbols are integral elements of art together with comparison
+        and classification of properties of <br>depicted objects/phenomena. As a result
+        of integration, students will develop the ability to see the beauty of <br>graphs
+        drawn in computer software, to notice the beauty of different geometrical
+        shapes in their home <br>environment and in the nature, to calculate the area
+        and volume of familiar shapes if necessary. <br>In music, intervals, measures
+        and note durations are usually expressed as common fractions. <br>Technology.
+        The classes of handicraft and home economics, crafts and technology studies
+        involve <br>practical measurements and calculations, reading and creation
+        of drawings, etc., in connection with <br>designing and creating projects.
+        <br>Physical education. The skill to interpret numerical data is expressed
+        in the ability to compare sports <br>results and understand the information
+        presented in ranking tables. Text problems are used to explain the <br>importance
+        of healthy lifestyle, physical activity and sports for human health, as well
+        as the importance <br>medical achievements. Students can use objective numerical
+        data to assess their health behaviour, for <br>instance, the quantity of sugar
+        in food, traffic behaviour (speed, braking distance, visibility), etc. Physical
+        <br>activity and movement contribute to understanding the basic concepts of
+        units and measurement systems. <br>One type of mathematical models of reality,
+        namely maps, are used in physical education classes to learn <br>navigation.
+        Consistency, accuracy and the ability to identify the simplest and best solution
+        are integral parts <br>of both mathematics and sports.'
+      text_type: text
+    id: 8
+    label: 1.5. Options for Integrating Mathematics with Other Subject Fields
+    text_type: section_title
+  - annotations: 1.6. Options for Implementing Cross Curricular Topics
+    children:
+    - annotations: ''
+      children: []
+      id: 11
+      label: The cross-curricular topics introduced in the general part of the curriculum
+        are primarily realised in basic <br>school mathematics lessons by systematically
+        organising studying activities and giving references to <br>relevant subjects
+        under observation.  <br>Lifelong learning and career planning. Mathematics
+        education communicates the need to learn and <br>helps to develop independent
+        study skills. Mathematics lessons shape the ability to think in an abstract
+        and <br>logical manner. Realistic assessment of one’s abilities is one of
+        the most important preconditions of career <br>planning. Students are guided
+        towards developing their studying, communication, cooperation, decision <br>making
+        and information handling skills. Educational activities offer opportunities
+        for direct contacts with the <br>world of employment, e.g., through visits
+        to undertakings, presentations of occupations and professions <br>related
+        to the subject field. <br>Environment and sustainable development. Actual
+        data regarding the use of environmental resources <br>can be used in mathematics
+        problems. When analysing this data, pupils are encouraged to develop a <br>5
+        <br> <br>sustainable attitude towards their surroundings and taught to value
+        the physical and social environment. <br>Outdoor lessons are possible. Pupils
+        learn to take personal responsibility for a sustainable future and <br>achieve
+        appropriate values and behaviour models. The perspectives of environmental
+        and human <br>development are assessed based on facts. When handling this
+        particular topic, descriptive mathematics <br>related to percentage calculation,
+        elements of statistics and change and relation. <br>Citizens’ initiative and
+        entrepreneurship. Preparation for cooperation and tolerance towards other
+        <br>people’s actions and opinions are developed through cooperative activities
+        (research, group work, projects) <br>that integrate mathematics and other
+        subjects. The percentage calculation and elements of statistics <br>enable
+        the pupils to understand the meaning of numerical data used to describe society
+        and its <br>development. <br>Cultural identity. Mathematics is a part of both
+        global and national culture. A modern living environment <br>could not exist
+        without mathematics. This can be emphasised by presenting the history of mathematics,
+        the <br>connections between the development of society and mathematical research,
+        etc. By means of percentage <br>calculation and statistics, pupils are able
+        to describe the processes occurring in society in relation to the <br>topic
+        of the multicultural world (different nations, different religions, different
+        social positions in society etc.). <br>Information environment. The information
+        environment is associated with the skill to present and <br>understand information
+        in different formats (drawing, image, formula, model). An adequate perception
+        of <br>media manipulations is supported by the problems presented in the mathematics
+        course, making use of <br>statistical procedures and percentage calculations.
+        Students are guided towards critical analysis of <br>information.  <br>Technology
+        and innovation. Technological processes and modelling are presented through
+        integration of <br>the mathematics course with technology and natural science
+        subjects. When planning and implementing <br>their activities and assessing
+        the final results, students perform measurements and calculations and use
+        <br>ICT tools for studying and increasing the efficiency of their work. Various
+        educational software applications <br>can be used in mathematics education.
+        <br>Technology and innovation. By solving problems students learn how to use
+        technological tools and <br>understand the importance of mathematics for scientific
+        and technological development.   <br>Health and safety. Mathematics education
+        can include problems containing health and safety data (e.g., <br>text problems
+        related to the traffic environment, movement of road users and vehicles; other
+        problems and <br>graphs presenting data on risk factors). <br>Values and morality.
+        Study of mathematics is accomplishable if students develop their systematic
+        <br>approach, consistency, persistence, accuracy, correctness and sense of
+        responsibility. The example of the <br>teacher facilitates development of
+        a tolerant attitude towards other students with different abilities. Studying
+        <br>and teaching mathematics should offer students as many positive emotions
+        as possible.
+      text_type: text
+    id: 10
+    label: 1.6. Options for Implementing Cross Curricular Topics
+    text_type: section_title
+  - annotations: 1.7. Planning and Organizing Study Activities
+    children:
+    - annotations: ''
+      children: []
+      id: 13
+      label: 'In planning and organising study activities: <br>1) the focus is on
+        the basic values, general competences, goals of the subject, learning content
+        and <br>expected learning outcomes of the national curriculum and the course
+        supports integration with <br>other subjects and cross-curricular topics;
+        <br>6 <br> <br>2) the aim is to have a moderate study load for students (including
+        homework), ensuring it is <br>distributed across the school year evenly, giving
+        students enough time for rest and recreational <br>activities; <br>3)  differentiated
+        study assignments are used, with content and difficulty supporting an individualised
+        <br>approach and increasing motivation for learning;  <br>4) study environments
+        and study materials and tools based on contemporary information and <br>communication
+        technology are used; <br>5)  students’ knowledge, skills and attitudes are
+        developed, with the main emphasis being on the <br>formation of attitudes;
+        <br>6) a diverse selection of study methods is used with emphasis on active
+        study methods: independent <br>work, conversation, debate, discussion, work
+        in pairs, project study, group work;  <br>7)  opportunities are created for
+        preparing essays, study portfolios and research projects, performing <br>practical
+        measurements, etc.;  <br>8) the study environment is extended: computer classes,
+        companies, outdoor learning etc.'
+      text_type: text
+    id: 12
+    label: 1.7. Planning and Organizing Study Activities
+    text_type: section_title
+  - annotations: 1.8. Basis for Assessment
+    children:
+    - annotations: ''
+      children: []
+      id: 15
+      label: Assessment of learning outcomes is based on the assessment principles
+        specified in the general part of the <br>curriculum. Detailed assessment procedures
+        are specified in the school curriculum. <br>Formative assessment and summarising
+        grading are used in assessment. In formative assessment, the <br>primary focus
+        is on comparing a student’s development with his or her previous accomplishments.
+        In <br>summarising grading, a student’s accomplishments are compared with
+        required learning outcomes. Both <br>result and process are assessed in case
+        of practical assignments and problems.
+      text_type: text
+    id: 14
+    label: 1.8. Basis for Assessment
+    text_type: section_title
+  - annotations: 1.9. Physical Learning Environment
+    children:
+    - annotations: ''
+      children: []
+      id: 17
+      label: '1. The school organises education in a classroom which has the necessary
+        tools for drawing on the <br>board. <br>2. The school provides: <br>1) a set
+        of pocket calculators for classroom use; <br>2) a set of plane and solid figures
+        for classroom use; <br>3) if necessary, use of laptop or personal computers
+        with an Internet connection in the <br>mathematics classroom at the ratio
+        of at least one computer per five pupils; <br>4) presentation equipment for
+        visualisation of relations.'
+      text_type: text
+    id: 16
+    label: 1.9. Physical Learning Environment
+    text_type: section_title
+  id: 1
+  label: 1. General Principles
+  text_type: section_title
+- annotations: 2. Syllabuses
+  children:
+  - annotations: 2.1. Mathematics
+    children:
+    - annotations: 2.1.1. Mathematics Educational and Educational Objectives
+      children:
+      - annotations: ''
+        children: []
+        id: 21
+        label: The subject-specific educational objectives for developing subject
+          field competence are based on field-<br>specific competences.
+        text_type: text
+      id: 20
+      label: 2.1.1. Mathematics Educational and Educational Objectives
+      text_type: section_title
+    - annotations: 2.1.2. Description of the subject Mathematics
+      children:
+      - annotations: ''
+        children: []
+        id: 23
+        label: The description of the subject is based on the description of the subject
+          field. <br>7
+        text_type: text
+      id: 22
+      label: 2.1.2. Description of the subject Mathematics
+      text_type: section_title
+    - annotations: 2.1.3. Mathematics Learning and Educational Objectives in the 1st
+        Stage of Study
+      children:
+      - annotations: ''
+        children: []
+        id: 25
+        label: 'After completing the 3rd grade of study, students: <br>1) understand
+          the studied rules and are able to apply them;  <br>2) can count objects
+          in the surrounding world and classify and compare them based on one or two
+          <br>parameters;  <br>3) can read, understand and explain age-appropriate
+          mathematical texts;  <br>4) can use suitable tools and measurement units
+          for measuring values; <br>5) are able to notice mathematics-related elements
+          in daily life and describe them with figures or <br>geometrical shapes;  <br>6)
+          can use digital study materials; <br>7) understand the importance of mathematics
+          and its connections with the surrounding world.'
+        text_type: text
+      id: 24
+      label: 2.1.3. Mathematics Learning and Educational Objectives in the 1st Stage
+        of Study
+      text_type: section_title
+    - annotations: 2.1.4. Learning Outcomes and Learning Content of Mathematics in
+        the 1st stage of study
+      children:
+      - annotations: ''
+        children: []
+        id: 27
+        label: 'Calculation <br>Learning Outcomes <br>The students: <br>1) read, write,
+          order and compare natural numbers from 0 to 10,000; <br>2) present a number
+          as the sum of units, tens, hundreds and thousands; <br>3) read and write
+          ordinal numbers; <br>4) add and subtract up to 100 mentally and up to 10,000
+          in writing; <br>5) recite the multiplication table (multiply and divide
+          with a one-digit number up to 100 mentally); <br>6) know the names of the
+          components and results of the four arithmetic operations; <br>7) find the
+          numerical value of a letter in equations by means of trying or on the basis
+          of analogy; and <br>8) determine the correct order of operations in expressions
+          (parentheses, multiplication/division and <br>adding/subtracting). <br>
+          <br>Learning Content <br>Numbers from 0 to 10,000 and their presentation
+          as the sum of ones, tens, hundreds and thousands. <br>Equation and inequality.
+          Comparison and ordering numbers. Ordinal numbers. Odd and even numbers.
+          <br>Addition, subtraction, multiplication and division of numbers up to
+          100 mentally. Addition and subtraction up <br>to 10,000 in writing. Names
+          of components of addition, subtraction, multiplication and division operations
+          <br>(summand, sum; minuend, subtrahend, difference; divisor, product; dividend,
+          divisor, and quotient). <br>Relations between addition and subtraction,
+          and multiplication and division. Relation of multiplication to <br>addition.
+          <br>Rules of mental and written arithmetic. Letters as symbols of numbers.
+          Finding the numerical value of a <br>letter in equations. Use of computer
+          programmes in order to practise the required  calculating skills. <br> <br>Measurement
+          and Text Problems <br>Learning Outcomes <br>The students: <br>1) explain
+          the meaning of the fractions 2<br>1 , 3<br>1 , 4<br>1  and 5<br>1 , on the
+          basis of these fractions find a part of a <br>number; <br>8 <br> <br>2)
+          use appropriate measurement units and describe the size of measurement units
+          by means of <br>known quantities; <br>3) estimate distances in nature and
+          solve traffic safety problems; <br>4) know the time and calendar and relate
+          this knowledge to activities and events in real life; <br>5) transform units
+          of length, weight and time (mainly neighbour units); <br>6) calculate with
+          concrete numbers (simplest cases); <br>7) analyse and solve various types
+          of word problems with one and two operations independently and, <br>with
+          the help of the teacher, assess the reality of the results achieved; and
+          <br>8) compile word problems with one operation. <br> <br>Learning Content
+          <br>Units of length: millimetre, centimetre, decimetre, metre, kilometre.
+          Relations between units of length. <br>Units of weight: gram, kilogram,
+          tonne. Relations between units of weight. <br>Units of time: second, minute,
+          hour, day, week, month, year, century. Relations between units of time.
+          Time <br>and calendar. <br>Monetary units in use. Relations between monetary
+          units. Unit of volume: litre. Unit of temperature: degree. <br>The thermometer
+          and its scale. Addition of concrete numbers. <br>Analysing and solving word
+          problems. Assessment of the reality of results. Compilation of word problems.
+          <br>Use of computer programmes in order to practise transformation of units.
+          <br> <br>Geometric Objects <br>Learning Outcomes <br>The students: <br>1)
+          distinguish between simple geometric objects (points, lines, segments, circles,
+          triangles, <br>quadrangles, squares, rectangles, pentagons, hexagons, spheres,
+          cubes, cuboids, pyramids, <br>cylinders and cones) and their basic elements;
+          <br>2) find plane and solid figures, which have been discussed in lessons,
+          in their surroundings; <br>3) group geometric figures on the basis of their
+          common properties; <br>4) measure the length of a segment and draw segments
+          with a specified length;  <br>5) draw rectangles and squares;  <br>6) draw
+          equilateral triangles and circles; <br>7) measure side lengths and calculate
+          perimeters of polygons, which have been covered in lessons;  <br>8) calculate
+          length of broken lines.  <br> <br>Learning Content <br>Point, line segment,
+          straight line. Length of line segment. Drawing line segments with a given
+          length. <br>Broken lines and their length. <br>Triangles and quadrangles
+          and their vertexes, sides and angles. Right angle. Square and rectangle.
+          <br>Equilateral triangle and drawing equilateral triangles by means of ruler
+          and compass. <br>Circle and circumference, center and radius. Drawing circumferences
+          with a given radius. <br>Cube, cuboid, sphere, cylinder, cone, triangular
+          and quadrangular pyramids; their basic elements (edges, <br>vertexes and
+          facets on the level of distinguishing and recognising). Geometric figures
+          in everyday life.'
+        text_type: text
+      id: 26
+      label: 2.1.4. Learning Outcomes and Learning Content of Mathematics in the 1st
+        stage of study
+      text_type: section_title
+    - annotations: 2.1.5. Mathematics Learning and Educational Objectives in the 2st
+        Stage of Study
+      children:
+      - annotations: ''
+        children: []
+        id: 29
+        label: '9 <br> <br>After completing the 6rd grade of study, students: <br>1)
+          use different ways for presenting mathematical information and switch from
+          one presentation <br>manner to another; <br>2) classify objects and effects
+          and analyse and describe them on the basis of several characteristics; <br>3)
+          know the general scheme for open-end problems; <br>4) know that problems
+          can have different solution paths and can select a suitable path;  <br>5)
+          justify their trains of thought and test their correctness; <br>6) use calculation
+          tools to calculate and test results; <br>7) use proper study methods, if
+          necessary finding help and information from various sources of <br>information.'
+        text_type: text
+      id: 28
+      label: 2.1.5. Mathematics Learning and Educational Objectives in the 2st Stage
+        of Study
+      text_type: section_title
+    - annotations: 2.1.6. Learning Outcomes and Learning Content of Mathematics in
+        the 2st stage of study
+      children:
+      - annotations: ''
+        children: []
+        id: 31
+        label: 'Calculations <br>Learning Outcomes <br>The students: <br>1) read,
+          write, order and compare natural numbers (up to one billion), integers and
+          positive rational <br>numbers; <br>2) know the properties of operations
+          and the relations between the components and results of <br>operations;
+          <br>3) write natural numbers as the sum of multiples, calculate mentally
+          and in writing with integers and <br>positive rational numbers and  know
+          the order of operations; <br>4) formulate and apply divisibility properties
+          (divisible by 2, 3, 5, 9, and 10); <br>5) distinguish between odd and even
+          numbers; <br>6) use the technique of finding the common multiple and the
+          common factor when performing <br>operations with common fractions;  <br>7)
+          round off a number to a given accuracy; <br>8) find the square, cube, opposite
+          number, reciprocal and absolute value of a number; <br>9) know common and
+          decimal fractions, visualise them in a row of numbers, and visualise a common
+          <br>fraction as a part of the whole; <br>10) transform common fractions
+          into decimals, final decimals into common fractions and find the <br>decimal
+          approximation of the common fraction; <br>11) use digital study materials
+          and computer programmes under the guidance of the teacher and <br>independently.
+          <br> <br>Learning Content <br>Natural numbers from 0 to 1,000,000,000 and
+          their presentation (units of power of ten and powers of ten. ). <br>Odd
+          and even numbers. Prime and composite numbers. Divisibility properties (divisible
+          by 2, 3, 5, 9, and <br>10). Opposite number and reciprocal of natural numbers.
+          Integers. Absolute value of numbers. Common <br>fractions and decimals and
+          their transformation. Four basic operations with integers and positive rational
+          <br>numbers. Rounding and comparison. Reading and writing Roman numerals.
+          Roman numerals. <br>Use of computer programmes in order to practise the
+          required skills. <br> <br>Data and Algebra <br>Learning Outcomes <br>The
+          students: <br>10 <br> <br>1)  know  the term ‘percent’ and find a part of
+          the whole; <br>2) solve and compose  word problems with several operations
+          and check and evaluate the result; <br>3) draw coordinate axes, mark a point
+          using given coordinates, read the coordinates of a point within <br>the
+          axes; <br>4) read and draw graphs for temperature and movement; <br>5) simplify
+          expressions with one variable and calculate the value of letter expression;
+          <br>6) find the solution to an equation from the numbers given and solve
+          simple equations; <br>7) gather data for a simple data system, compile a
+          frequency table and calculate an arithmetic mean; <br>8) illustrate numerical
+          data with bar charts and straight line diagrams; and <br>9) read data from
+          bar charts and sector diagrams. <br> <br>Learning Content <br>Percent, finding
+          a part of the whole. <br>Coordinate axes, graphs for temperature and movement.
+          Speed. <br>Numerical and letter expressions. Calculation of the value of
+          letter expression. Formula. Equation. <br>Gathering and arranging numerical
+          data. Scale. Table of frequency. Diagrams (bar, straight-line and sector
+          <br>diagrams). Arithmetic mean. <br>Use of information technology tools
+          in order to practise the required skills. <br> <br>Geometric Figures and
+          Measurement <br>Learning Outcomes <br>The students: <br>1) know and transform
+          units of length, area, volume and time; <br>2)  know the meaning of the
+          scale of a plan and use it when solving problems; <br>3) draw and mark a
+          point, line, ray, segment, broken line, crossing, intersecting and parallel
+          lines, <br>square, rectangle, triangle and circle; <br>4) draw, classify
+          and measure angles (right, acute, obtuse, straight angle, adjacent angles
+          and vertex <br>angles); <br>5) construct the mediator of a segment, the
+          bisector of an angle and symmetrical images to a line by <br>means of compass
+          and rulers; <br>6) give examples of known geometric figures and symmetry
+          in architecture and the fine arts by means <br>of ICT (Internet searches
+          and taking photographs); <br>7) use the sum of the inner angles of triangles
+          when solving problems; <br>8) classify triangles by sides and angles, draw
+          the heights of triangles and calculate the area of <br>triangles; <br>9)
+          calculate the length of the circumference and area of a circle; and <br>10)
+          calculate the area and volume of a cube and cuboid. <br> <br>Learning Content
+          <br>Elementary geometric objects (point, line, segment, ray,  broken line
+          and angle). Comparison, <br>measurement and classification of angles. Scale
+          of a plan. Intersection, crossing and parallelism of lines. <br>Adjacent
+          and vertex angles. Symmetry with respect to line. Mediator of segment and
+          bisector of angle. <br>Triangles and their elements. Classification and
+          drawing of triangles and properties of an equality. Finding <br>area of
+          triangle by means of base and height.  <br>Circumference and its length.
+          Circle and its area. <br>11 <br> <br>Solid figures  (cube and cuboid).'
+        text_type: text
+      id: 30
+      label: 2.1.6. Learning Outcomes and Learning Content of Mathematics in the 2st
+        stage of study
+      text_type: section_title
+    - annotations: 2.1.7. Mathematics Learning and Educational Objectives in the 3st
+        Stage of Study
+      children:
+      - annotations: ''
+        children: []
+        id: 33
+        label: 'After completing the 9rd grade of study, students: <br>1) compile
+          and use  appropriate mathematical models in order to solve problems in different
+          fields of <br>life; <br>2) formulate hypotheses and check, generalise and
+          discuss them in a logical manner; <br>3) justify assertions; <br>4) use
+          computer programs and other tools in studying mathematical relations; <br>5)
+          see relations between different mathematical terms and create a system of
+          terms; and <br>6) assess their mathematical knowledge and skills and consider
+          them when planning further activities.'
+        text_type: text
+      id: 32
+      label: 2.1.7. Mathematics Learning and Educational Objectives in the 3st Stage
+        of Study
+      text_type: section_title
+    - annotations: 2.1.8. Learning Outcomes and Learning Content of Mathematics in
+        the 3st stage of study
+      children:
+      - annotations: ''
+        children: []
+        id: 35
+        label: 'Calculation and Data <br>Learning Outcomes <br>The students: <br>1)
+          add, subtract, multiply, divide and rise to a power of rational numbers
+          with exponent of natural <br>number mentally, in writing and by means of
+          a pocket calculator and use the order of operations; <br>2) write large
+          and small numbers in standard format; <br>3) round off numbers to a given
+          accuracy; <br>4) explain the meaning of involution with exponent of natural
+          number and use involution rules; <br>5) explain the meaning of the  square
+          root of a number and find the square root mentally or by means <br>of a
+          pocket calculator; <br>6) compile dataset on the basis of actual data, arrange
+          them, compile tables of frequency and relative <br>frequency and characterise
+          the dataset by arithmetic means; and <br>7) explain the meaning of probability
+          and calculate classic probability in simplest cases. <br> <br>Learning Content
+          <br>Calculation with rational numbers. Degrees of 10 (including negative  integer
+          exponent). Standard format of <br>numbers. Power with exponent of natural
+          number. Square root of numbers. <br>Dataset and its properties (frequency,
+          relative frequency and arithmetic mean). The term ‘probability’. <br>Use
+          of computer programmes in order to practise required skills. <br> <br>Percentages
+          <br>Learning Outcomes <br>The students: <br>1) find the whole on the basis
+          of a given partial rate in percentages; <br>2) express the quotient of two
+          numbers in percentages; <br>3) find what percentage one number forms of
+          another; <br>4) determine increase and decrease of quantity in percentages;
+          <br>5) interpret quantities expressed in percentages in other subjects and
+          in everyday life, including <br>expenses and dangers related to loans (simple
+          interest only); and <br>6) discuss the importance of taxes in society. <br>
+          <br>12 <br> <br>Learning Content <br>The term ‘percentage’ (revision). Introduction
+          to the term ‘per mil’. Finding the whole on the basis of a <br>percentage.
+          Expression of quotients in percentages. Percentage point. Expression of
+          increase and <br>decrease in percentages. Distinguishing between change
+          in percentage and change in percentage points.  <br>Use of computer programmes
+          in order to practise required skills. <br> <br>Algebra <br>Learning Outcomes
+          <br>The students: <br>1) arrange monomials and multinomials, add, subtract
+          and multiply monomials and multinomials and <br>divide monomials and multinomials
+          by a monomial; <br>2) factorize multinomials (bring before brackets, use
+          auxiliary formulas and factorize quadratic <br>trinomials); <br>3) cancel
+          and extend algebraic fractions and add, subtract, multiply and divide algebraic
+          fractions; <br>4) simplify rational expressions with two operations; <br>5)
+          solve linear and proportional equations using the basic properties of equations;
+          <br>6) solve linear equation systems; <br>7) solve complete and incomplete
+          quadratic equations; and <br>8) solve word problems by means of equations
+          and equation systems. <br> <br>Learning Content <br>Monomial and multinomial.
+          Operations with monomials and multinomials. <br>Formulas for difference
+          of squares, sum squares and difference squares. <br>Basic properties of
+          equations. Linear equation. Linear equation system. Complete and incomplete
+          quadratic <br>equation. Proportional equation. Proportional decomposition.
+          Use of computer software for solving <br>equations and linear equations
+          systems.  <br>Algebraic fraction. Operations with algebraic fractions. <br>Solving
+          word problems by means of equations and equation systems. <br> <br> <br>Functions
+          <br>Learning Outcomes <br>The students: <br>1) explain the meaning of proportional
+          dependence based on real-life examples;  <br>2) draw graphs of functions
+          by formula (both by hand and by means of a computer programme) and <br>read
+          the values of functions and arguments from the graph; <br>3) explain the
+          dependence of the position and form of the function’s graph (using dynamic
+          drawings <br>made on a computer) on the coefficient in the function’s expression
+          (in the case of quadratic <br>function, on the quadratic term’s coefficient
+          and a constant member only); <br>4) explain the meaning of zeros of a function
+          and find zeros on graphs and formulas; <br>5) read the text of a parabola
+          from the drawing and calculate the coordinates of the vertex of the <br>parabola.
+          <br> <br>Learning Content <br>13 <br> <br>Variable quantity and function.
+          Proportional and inversely proportional dependence. Practical work: <br>determination
+          of proportional and inversely proportional relation (i.e. distance, interval
+          of time and speed). <br>Linear function. Quadratic function. <br> <br>Geometry
+          <br>Learning Outcomes <br>The students: <br>1) draw and construct (both
+          by hand and computer) plane figures on the basis of given elements; <br>2)
+          calculate linear elements, perimeter and area and volume of figures; <br>3)
+          know figures, the midline of a triangle and trapezium, the median of a triangle,
+          the circumscribed <br>and inscribed circles of a triangle and the central
+          angle and peripheral angles of triangle; <br>4) describe properties of figures
+          and classify figures according to common properties; <br>5) identify the
+          ‘theorem’, ‘postulate’, ‘assertion’ and ‘proof’, explain train of thought
+          of proving certain <br>theorems; <br>6) solve  open-end problems with geometrical
+          content; <br>7) find the linear elements of a right-angled triangle; <br>8)
+          use similarity between triangles and polygons when solving open-end problems;
+          and <br>9) use technological tools in discovering regularities and formulating
+          hypotheses. <br> <br>Learning Content <br>Definition, theorem, assumption,
+          assertion and proof. Polygons (triangle, parallelogram, trapezium and <br>regular
+          polygon), perimeter and area of polygons.  <br>Circle and circumference.
+          Central angle. Peripheral angle, Thales’ Theorem. Tangent of circumference.  <br>Inscribed
+          and circumscribed circles of triangle and regular polygon. Criterion of
+          parallel straight lines. <br>Midline of triangle and trapezium. Median and
+          centre of gravity of a triangle. Similarity properties of <br>triangles.
+          Similarity of polygons. <br>Planning of areas. Pythagoras’ Theorem. Trigonometric
+          functions of acute angles. Solid figures (vertical <br>parallelepiped, vertical
+          prism, pyramid, cylinder, cone and sphere), their area and volume.'
+        text_type: text
+      id: 34
+      label: 2.1.8. Learning Outcomes and Learning Content of Mathematics in the 3st
+        stage of study
+      text_type: section_title
+    id: 19
+    label: 2.1. Mathematics
+    text_type: section_title
+  id: 18
+  label: 2. Syllabuses
+  text_type: section_title
+id: 0
+label: 'Subject field: mathematics'
