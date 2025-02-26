@@ -1,5 +1,8 @@
 openai 
 python-dotenv
 streamlit
-
-
+pyyaml
+pandas
+igraph
+weaviate-client
+plotly
