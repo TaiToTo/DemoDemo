@@ -517,7 +517,7 @@ tree_text_search_limit = st.slider("Select a number of texts to query",
 
 if tree_selected_subject:
     # Read YAML file
-    with open("../JapaneseDocumentLayoutAnalysis/EstonianCurriculumTreeData/Estonian_basic_school_tree_{}.yaml".format(tree_selected_subject), "r", encoding="utf-8") as file:
+    with open("EstonianCurriculumTreeData/Estonian_basic_school_tree_{}.yaml".format(tree_selected_subject), "r", encoding="utf-8") as file:
         curriculum_tree = yaml.safe_load(file)  # Load YAML content as a dictionary
 
 tree_query_text = st.text_input("Write a query search positions of relevant content in the curriculum:", "Collaborating with teachers in other subjects")
