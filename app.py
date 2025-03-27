@@ -489,47 +489,6 @@ st.write("""
 After the texts are stored in the database, the most **relevant** or **semantically closest** texts to an input query in a curriculum can be found.
 """)
 
-st.subheader("Search related sections in a single curriculum")
-
-tree_subjects = [
-                "mathematics", 
-                "art", 
-                "career_education", 
-                "entrepreneurship_studies", 
-                "foreign_languages", 
-                "informatics", 
-                "language_and_literature", 
-                "mathematics", 
-                "natural_science", 
-                "physical_education", 
-                "religious_studies", 
-                "technology"
-                ]
-
-tree_selected_subject = st.selectbox("Select a subject:", options=list(tree_subjects))
-
-tree_text_search_limit = st.slider("Select a number of texts to query", 
-                              min_value=0, 
-                              max_value=50, 
-                              value=3, 
-                              step=1
-                              )
-
-if tree_selected_subject:
-    # Read YAML file
-    with open("EstonianCurriculumTreeData/Estonian_basic_school_tree_{}.yaml".format(tree_selected_subject), "r", encoding="utf-8") as file:
-        curriculum_tree = yaml.safe_load(file)  # Load YAML content as a dictionary
-
-tree_query_text = st.text_input("Write a query search positions of relevant content in the curriculum:", "Collaborating with teachers in other subjects")
-
-if tree_query_text:
-
-    queried_node_list = query_node_vectors(tree_selected_subject, tree_query_text, tree_text_search_limit)
-    fig_tree = get_curriculum_tree_graph_object(curriculum_tree, title=tree_query_text, queried_node_list=queried_node_list)
-
-    st.plotly_chart(fig_tree)
-
-
 st.write("""
 The following graphs display the **queried texts** in all the curriculums and their **relevance scores** relative to the query. These texts are also **grouped by subject** on the right side for easier analysis.
 """)
