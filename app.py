@@ -735,6 +735,6 @@ with col2:
     st.image("static/interdisciplinary_analysis.jpg", use_container_width =True)
 
 st.write("""The following scatter visualizes relations of texts in the curriculums. Each dot means a text, and each color represents a subject of the text. The closer the dots are, the more similar the texts are. Thus, if dots with different colors are close, that implies they have interdisciplinary relations.""")
-st.write("""Please beart it in mind that this is only an interim demo results, and this needs some more adjustments like data cleaning for more accurate results.""")
+st.write("""Please bear it in mind that this is only an interim demo results, and this needs some more adjustments like data cleaning for more accurate results.""")
 st.plotly_chart(fig_3, use_container_width=True)
 
